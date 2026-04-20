@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium
-https://lcrj3.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=199ae5cab31c6f0301f7cacf5ab90c22f8b25eab-e8-1776759227-1776705227&ip=190.229.218.248
+https://dtkb.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=a9f756543c2eb82067da9509d81d4c061e24bb2b-ac-1776770664-1776716664&ip=181.99.125.41
 
 #EXTINF:-1 tvg-name="TNT SPORT" group-title="FUTBOL",TNT SPORT
-https://xky9q.envivoslatam.org/hotflix/tntsports/index.m3u8?token=27d71b394e1b3ae1061cd1e064aeefd2f9483128-cc-1776759210-1776705210&ip=190.229.218.248
+https://bd2ih.envivoslatam.org/hotflix/tntsports/index.m3u8?token=fb06b9e8632871834a7bd75f489f8a085247ec57-d5-1776770729-1776716729&ip=181.99.125.41
 
 #EXTINF:-1 tvg-name="Canal 44" group-title="TV",HISTORY
-https://regionales.saohgdasregions.fun:9092/MTkwLjIyOS4yMTguMjQ4/44_.m3u8?token=ixdXc3l3ID5IhjYvZrmtsA&expires=1776759174
+https://regionales.saohgdasregions.fun:9092/MTgxLjk5LjEyNS40MQ==/44_.m3u8?token=J7Mj57Eq4KMdn0i2A5D3Nw&expires=1776768989
