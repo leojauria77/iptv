@@ -17,3 +17,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 
 #EXTINF:-1 tvg-name="TELEFE" group-title="TV",TELEFE
 http://107.152.39.199:8030/hls/canal23.m3u8
+
+#EXTINF:-1 tvg-name="EL NUEVE" group-title="TV",NUEVE
+http://107.152.39.199:8030/hls/canal23.m3u8
+
+
