@@ -23,3 +23,6 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 
 #EXTINF:-1 tvg-name="EL TRECE" group-title="TV",TRECE
 http://107.152.39.199:8030/hls/canal12.m3u8
+
+#EXTINF:-1 tvg-name="VENUS" group-title="TV", VENUS 
+http://170.82.37.21:8000/play/a00t/index.m3u8
