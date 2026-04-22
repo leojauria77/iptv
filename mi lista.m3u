@@ -32,3 +32,6 @@ http://45.5.151.147:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium2
 http://45.5.151.147:8000/play/a00m/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium3
+http://45.5.149.220:8000/play/a03m/index.m3u8
