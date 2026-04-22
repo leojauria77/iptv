@@ -7,7 +7,7 @@ https://afy4c.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=22b85e24dbd1
 https://vg7ie.envivoslatam.org/hotflix/tntsports/index.m3u8?token=86cc5397b6ac353c156462cdf4da92e21854d10d-e2-1776864702-1776810702&ip=181.99.125.41
 
 #EXTINF:-1 tvg-name="Canal 44" group-title="TV",HISTORY
-http://170.244.209.30:8000/play/a062/44680193.m3u8
+http://45.5.149.220:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-name="discovery" group-title="TV", DISCOVERY 
 http://181.78.82.6:46090/play/a06b/index.m3u8
