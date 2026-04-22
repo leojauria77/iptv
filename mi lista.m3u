@@ -29,3 +29,6 @@ http://45.228.233.222:8000/play/a02u
 
 #EXTINF:-1 tvg-name="TELEFE2" group-title="TV", TELEFE2 
 http://45.5.151.147:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium2
+http://45.5.151.147:8000/play/a00m/index.m3u8
