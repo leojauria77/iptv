@@ -4,7 +4,7 @@
 https://afy4c.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=22b85e24dbd18f5987f4d89ee3c9a75b0d54024f-0e-1776864522-1776810522&ip=181.99.125.41
 
 #EXTINF:-1 tvg-name="TNT SPORT" group-title="FUTBOL",TNT SPORT
-https://vg7ie.envivoslatam.org/hotflix/tntsports/index.m3u8?token=86cc5397b6ac353c156462cdf4da92e21854d10d-e2-1776864702-1776810702&ip=181.99.125.41
+http://45.5.151.62:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-name="Canal 44" group-title="TV",HISTORY
 http://45.5.149.220:8000/play/a05r/index.m3u8
