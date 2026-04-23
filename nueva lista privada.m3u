@@ -8,3 +8,9 @@ http://148.230.149.45:1021/play/a01u/index.m3u8
 
 #EXTINF:-1 tvg-name="SEXTREME" group-title="TV",SEXTREME
 http://170.244.209.30:8000/play/a130/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="El Nueve" group-title="Argentina",El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://ts9.tvcluboficial.com/ts/AR_ElNueve/_1254066.ts
