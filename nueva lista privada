@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Canal 1" group-title="TV",Canal 1
+http://148.230.149.45:1021/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 2" group-title="TV",Canal 2
+http://148.230.149.45:1021/play/a01u/index.m3u8
