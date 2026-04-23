@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Canal 1" group-title="TV",PLAYBOY TV
+#EXTINF:-1 tvg-name="PLAYBOY TV" group-title="TV",PLAYBOY TV
 http://148.230.149.45:1021/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 2" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS" group-title="TV",VENUS
 http://148.230.149.45:1021/play/a01u/index.m3u8
