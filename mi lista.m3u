@@ -18,8 +18,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-name="TELEFE" group-title="TV",TELEFE
 http://107.152.39.199:8030/hls/canal23.m3u8
 
-#EXTINF:-1 tvg-name="EL NUEVE" group-title="TV",NUEVE
-http://107.152.39.199:8030/hls/canal7.m3u8
+#EXTINF:-1 tvg-name="Canal 9 Resistencia" group-title="TV",Canal 9 Resistencia 
+http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="EL TRECE" group-title="TV",TRECE
 http://107.152.39.199:8030/hls/canal12.m3u8
