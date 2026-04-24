@@ -6,7 +6,7 @@ https://xky9q.envivoslatam.org/espnpremium/index.m3u8?token=2e1b7e167fcd5e8b1d5d
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUN" group-title="FUTBOL",TNT SPORT PREMIUN
 http://45.5.151.62:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 44" group-title="TV",HISTORY
+#EXTINF:-1 tvg-name="history" group-title="TV",HISTORY
 http://45.5.149.220:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-name="discovery" group-title="TV", DISCOVERY 
@@ -24,10 +24,10 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TRECE" group-title="TV",TRECE
 http://107.152.39.199:8030/hls/canal12.m3u8
 
-#EXTINF:-1 tvg-name="VENUS" group-title="TV", FOX SPORTS
+#EXTINF:-1 tvg-name="FOX SPORTS" group-title="TV", FOX SPORTS
 http://45.5.149.220:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-name="TELEFE2" group-title="TV", TELEFE2 
+#EXTINF:-1 tvg-name="TELEFE" group-title="TV", TELEFE2 
 http://45.5.151.147:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium2
@@ -36,7 +36,7 @@ http://45.5.151.147:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" group-title="FUTBOL",ESPN Premium3
 http://45.5.149.220:8000/play/a03m/index.m3u8
 
-EXTINF:-1 tvg-name="TELEFE2" group-title="TV", TELEFE3 
+EXTINF:-1 tvg-name="TELEFE" group-title="TV", TELEFE3 
 http://45.5.149.220:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="FUTBOL",EL NUEVE
@@ -48,5 +48,5 @@ http://45.5.151.147:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-name="AMERICA" group-title="TV",AMERICA
 http://45.5.151.147:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-name="Canal 44" group-title="TV",HISTORY 2
+#EXTINF:-1 tvg-name="HISTORY 2" group-title="TV",HISTORY 2
 http://45.5.151.147:8000/play/a03k/index.m3u8
