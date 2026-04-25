@@ -56,3 +56,6 @@ http://45.5.149.220:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_9_logo.svg" group-title="FUTBOL",EL NUEVE
 http://45.5.149.220:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-name="AMERICA" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",AMERICA2
+http://45.5.149.220:8000/play/a03b/index.m3u8
