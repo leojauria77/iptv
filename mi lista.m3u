@@ -53,3 +53,6 @@ http://45.5.151.147:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TNT_Sports_logo.png" group-title="FUTBOL",TNT SPORT PREMIUN
 http://45.5.149.220:8000/play/a03r/index.m3u8
+
+#EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_9_logo.svg" group-title="FUTBOL",EL NUEVE
+http://45.5.149.220:8000/play/a03d/index.m3u8
