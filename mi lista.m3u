@@ -39,7 +39,7 @@ http://45.5.149.220:8000/play/a03m/index.m3u8
 #EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://i.imgur.com/o4otu7m.png" group-title="TV",TELEFE
 http://45.5.149.220:8000/play/a03f/index.m3u8
 
-#EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_9_logo.svg" group-title="FUTBOL",EL NUEVE
+#EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://imgur.com/mpQsyNN.png" group-title="FUTBOL",EL NUEVE
 http://45.5.151.147:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TNT_Sports_logo.svg" group-title="FUTBOL",TNT SPORT PREMIUM
