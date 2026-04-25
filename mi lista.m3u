@@ -15,7 +15,7 @@ http://181.78.82.6:46090/play/a06b/index.m3u8
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",AMERICA TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://i.imgur.com/o4otu7m.png" group-title="TV",TELEFE
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://imgur.com/CssrwME.png" group-title="TV",TELEFE
 http://107.152.39.199:8030/hls/canal23.m3u8
 
 #EXTINF:-1 tvg-name="Canal 9 Resistencia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal_9_logo.png" group-title="TV",Canal 9 Resistencia
@@ -27,7 +27,7 @@ http://107.152.39.199:8030/hls/canal12.m3u8
 #EXTINF:-1 tvg-name="FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Fox_Sports_logo.svg" group-title="TV",FOX SPORTS
 http://45.5.149.220:8000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://i.imgur.com/o4otu7m.png" group-title="TV",TELEFE
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://imgur.com/CssrwME.png" group-title="TV",TELEFE
 http://45.5.151.147:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/ESPN_logo.svg" group-title="FUTBOL",ESPN Premium
@@ -36,7 +36,7 @@ http://45.5.151.147:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/ESPN_logo.svg" group-title="FUTBOL",ESPN Premium
 http://45.5.149.220:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://i.imgur.com/o4otu7m.png" group-title="TV",TELEFE
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://imgur.com/CssrwME.png" group-title="TV",TELEFE
 http://45.5.149.220:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://imgur.com/mpQsyNN.png" group-title="FUTBOL",EL NUEVE
