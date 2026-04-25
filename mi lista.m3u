@@ -36,7 +36,7 @@ http://45.5.151.147:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/ESPN_logo.svg" group-title="FUTBOL",ESPN Premium3
 http://45.5.149.220:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Telefe_logo_2018.svg" group-title="TV",TELEFE3
+#EXTINF:-1 tvg-name="TELEFE" tvg-logo="https://imgur.com/a/TdGKCqp.png" group-title="TV",TELEFE3
 http://45.5.149.220:8000/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canal_9_logo.svg" group-title="FUTBOL",EL NUEVE
