@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/ESPN_Premium_logo.png" group-title="FUTBOL",ESPN Premium
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/330px-ESPN_Premium_logo.png" group-title="FUTBOL",ESPN Premium
 https://xky9q.envivoslatam.org/espnpremium/index.m3u8?token=2e1b7e167fcd5e8b1d5dbd3d58087fceab0bee6e-f5-1777033431-1776979431&ip=181.1.121.91
 
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TNT_Sports_logo.png" group-title="FUTBOL",TNT SPORT PREMIUN
