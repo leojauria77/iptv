@@ -6,7 +6,7 @@ https://xky9q.envivoslatam.org/espnpremium/index.m3u8?token=2e1b7e167fcd5e8b1d5d
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT SPORT PREMIUM
 http://45.5.151.62:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/History_Logo.svg" group-title="TV",HISTORY
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://i.imgur.com/V8LWHRx.png" group-title="TV",HISTORY
 http://45.5.149.220:8000/play/a05r/index.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_Channel_logo.png" group-title="TV",DISCOVERY
@@ -48,7 +48,7 @@ http://45.5.151.147:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-name="AMERICA TV" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",AMERICA TV
 http://45.5.151.147:8000/play/a00c/index.m3u8
 
-#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/History_Logo.svg" group-title="TV",HISTORY 2
+#EXTINF:-1 tvg-name="HISTORY 2" tvg-logo="https://i.imgur.com/sSn9wmg.png" group-title="TV",HISTORY 2
 http://45.5.151.147:8000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TNT_Sports_logo.png" group-title="FUTBOL",TNT SPORT PREMIUM
