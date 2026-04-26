@@ -62,3 +62,7 @@ http://45.5.149.220:8000/play/a03b/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/C957N5f.png" group-title="TV",El Trece
 http://45.5.151.62:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal de musica" tvg-name="Canal de Musica" tvg-logo="https://i.imgur.com/lsYxA7u.png" group-title="TV",CM
+http://45.5.151.62:8000/play/a02k/index.m3u8
+
