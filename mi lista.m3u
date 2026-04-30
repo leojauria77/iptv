@@ -78,6 +78,10 @@ http://45.5.149.220:8000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO MAX" tvg-logo=https://i.imgur.com/QJe2Al9.png" group-title="TV",HBO MAX
 http://170.244.209.30:8000/play/a161/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve
+#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="El 9" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El 9 HD
 http://45.5.151.62:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="http" group-title="TV",TV PÚBLICA 
+http://45.5.151.62:8000/play/a00a/index.m3u8
+
 
