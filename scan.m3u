@@ -1,56 +1,58 @@
 #EXTM3U
 
-# A06 SCAN
+######## A00 ########
+#EXTINF:-1,SCAN A00
+http://181.78.82.6:46090/play/a00a/index.m3u8
+http://181.78.82.6:46090/play/a00b/index.m3u8
+http://181.78.82.6:46090/play/a00c/index.m3u8
+http://181.78.82.6:46090/play/a00d/index.m3u8
+http://181.78.82.6:46090/play/a00e/index.m3u8
+http://181.78.82.6:46090/play/a00f/index.m3u8
+http://181.78.82.6:46090/play/a00g/index.m3u8
+http://181.78.82.6:46090/play/a00h/index.m3u8
+http://181.78.82.6:46090/play/a00i/index.m3u8
+http://181.78.82.6:46090/play/a00j/index.m3u8
+http://181.78.82.6:46090/play/a00k/index.m3u8
+http://181.78.82.6:46090/play/a00l/index.m3u8
+http://181.78.82.6:46090/play/a00m/index.m3u8
+http://181.78.82.6:46090/play/a00n/index.m3u8
+http://181.78.82.6:46090/play/a00o/index.m3u8
+http://181.78.82.6:46090/play/a00p/index.m3u8
+http://181.78.82.6:46090/play/a00q/index.m3u8
+http://181.78.82.6:46090/play/a00r/index.m3u8
+http://181.78.82.6:46090/play/a00s/index.m3u8
+http://181.78.82.6:46090/play/a00t/index.m3u8
+http://181.78.82.6:46090/play/a00u/index.m3u8
+http://181.78.82.6:46090/play/a00v/index.m3u8
+http://181.78.82.6:46090/play/a00w/index.m3u8
+http://181.78.82.6:46090/play/a00x/index.m3u8
+http://181.78.82.6:46090/play/a00y/index.m3u8
+http://181.78.82.6:46090/play/a00z/index.m3u8
 
-#EXTINF:-1,SCAN a06a
-http://181.78.82.6:46090/play/a06a/index.m3u8
-#EXTINF:-1,SCAN a06b
-http://181.78.82.6:46090/play/a06b/index.m3u8
-#EXTINF:-1,SCAN a06c
-http://181.78.82.6:46090/play/a06c/index.m3u8
-#EXTINF:-1,SCAN a06d
-http://181.78.82.6:46090/play/a06d/index.m3u8
-#EXTINF:-1,SCAN a06e
-http://181.78.82.6:46090/play/a06e/index.m3u8
-#EXTINF:-1,SCAN a06f
-http://181.78.82.6:46090/play/a06f/index.m3u8
-#EXTINF:-1,SCAN a06g
-http://181.78.82.6:46090/play/a06g/index.m3u8
-#EXTINF:-1,SCAN a06h
-http://181.78.82.6:46090/play/a06h/index.m3u8
-#EXTINF:-1,SCAN a06i
-http://181.78.82.6:46090/play/a06i/index.m3u8
-#EXTINF:-1,SCAN a06j
-http://181.78.82.6:46090/play/a06j/index.m3u8
-#EXTINF:-1,SCAN a06k
-http://181.78.82.6:46090/play/a06k/index.m3u8
-#EXTINF:-1,SCAN a06l
-http://181.78.82.6:46090/play/a06l/index.m3u8
-#EXTINF:-1,SCAN a06m
-http://181.78.82.6:46090/play/a06m/index.m3u8
-#EXTINF:-1,SCAN a06n
-http://181.78.82.6:46090/play/a06n/index.m3u8
-#EXTINF:-1,SCAN a06o
-http://181.78.82.6:46090/play/a06o/index.m3u8
-#EXTINF:-1,SCAN a06p
-http://181.78.82.6:46090/play/a06p/index.m3u8
-#EXTINF:-1,SCAN a06q
-http://181.78.82.6:46090/play/a06q/index.m3u8
-#EXTINF:-1,SCAN a06r
-http://181.78.82.6:46090/play/a06r/index.m3u8
-#EXTINF:-1,SCAN a06s
-http://181.78.82.6:46090/play/a06s/index.m3u8
-#EXTINF:-1,SCAN a06t
-http://181.78.82.6:46090/play/a06t/index.m3u8
-#EXTINF:-1,SCAN a06u
-http://181.78.82.6:46090/play/a06u/index.m3u8
-#EXTINF:-1,SCAN a06v
-http://181.78.82.6:46090/play/a06v/index.m3u8
-#EXTINF:-1,SCAN a06w
-http://181.78.82.6:46090/play/a06w/index.m3u8
-#EXTINF:-1,SCAN a06x
-http://181.78.82.6:46090/play/a06x/index.m3u8
-#EXTINF:-1,SCAN a06y
-http://181.78.82.6:46090/play/a06y/index.m3u8
-#EXTINF:-1,SCAN a06z
-http://181.78.82.6:46090/play/a06z/index.m3u8
+######## A01 ########
+http://181.78.82.6:46090/play/a01a/index.m3u8
+http://181.78.82.6:46090/play/a01b/index.m3u8
+http://181.78.82.6:46090/play/a01c/index.m3u8
+http://181.78.82.6:46090/play/a01d/index.m3u8
+http://181.78.82.6:46090/play/a01e/index.m3u8
+http://181.78.82.6:46090/play/a01f/index.m3u8
+http://181.78.82.6:46090/play/a01g/index.m3u8
+http://181.78.82.6:46090/play/a01h/index.m3u8
+http://181.78.82.6:46090/play/a01i/index.m3u8
+http://181.78.82.6:46090/play/a01j/index.m3u8
+http://181.78.82.6:46090/play/a01k/index.m3u8
+http://181.78.82.6:46090/play/a01l/index.m3u8
+http://181.78.82.6:46090/play/a01m/index.m3u8
+http://181.78.82.6:46090/play/a01n/index.m3u8
+http://181.78.82.6:46090/play/a01o/index.m3u8
+http://181.78.82.6:46090/play/a01p/index.m3u8
+http://181.78.82.6:46090/play/a01q/index.m3u8
+http://181.78.82.6:46090/play/a01r/index.m3u8
+http://181.78.82.6:46090/play/a01s/index.m3u8
+http://181.78.82.6:46090/play/a01t/index.m3u8
+http://181.78.82.6:46090/play/a01u/index.m3u8
+http://181.78.82.6:46090/play/a01v/index.m3u8
+http://181.78.82.6:46090/play/a01w/index.m3u8
+http://181.78.82.6:46090/play/a01x/index.m3u8
+http://181.78.82.6:46090/play/a01y/index.m3u8
+http://181.78.82.6:46090/play/a01z/index.m3u8
