@@ -72,6 +72,9 @@ http://45.5.151.62:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="VOLVER" tvg-name="VOLVER" tvg-logo="https://i.imgur.com/tGgjxRn.jpeg" group-title="TV",VOLVER 
 http://45.5.149.220:8000/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TuC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
 http://45.5.149.220:8000/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO MAX" tvg-logo=https://i.imgur.com/QJe2Al9.png" group-title="TV",HBO MAX
+http://170.244.209.30:8000/play/a161/index.m3u8
 
