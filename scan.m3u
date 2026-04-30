@@ -1,107 +1,104 @@
-#EXTINF:-1,SCAN A150
-http://170.244.209.30:8000/play/a150/index.m3u8
-#EXTINF:-1,SCAN A151
-http://170.244.209.30:8000/play/a151/index.m3u8
-#EXTINF:-1,SCAN A152
-http://170.244.209.30:8000/play/a152/index.m3u8
-#EXTINF:-1,SCAN A153
-http://170.244.209.30:8000/play/a153/index.m3u8
-#EXTINF:-1,SCAN A154
-http://170.244.209.30:8000/play/a154/index.m3u8
-#EXTINF:-1,SCAN A155
-http://170.244.209.30:8000/play/a155/index.m3u8
-#EXTINF:-1,SCAN A156
-http://170.244.209.30:8000/play/a156/index.m3u8
-#EXTINF:-1,SCAN A157
-http://170.244.209.30:8000/play/a157/index.m3u8
-#EXTINF:-1,SCAN A158
-http://170.244.209.30:8000/play/a158/index.m3u8
-#EXTINF:-1,SCAN A159
-http://170.244.209.30:8000/play/a159/index.m3u8
+#EXTM3U
 
-#EXTINF:-1,SCAN A160
-http://170.244.209.30:8000/play/a160/index.m3u8
-#EXTINF:-1,SCAN A161
-http://170.244.209.30:8000/play/a161/index.m3u8
-#EXTINF:-1,SCAN A162
-http://170.244.209.30:8000/play/a162/index.m3u8
-#EXTINF:-1,SCAN A163
-http://170.244.209.30:8000/play/a163/index.m3u8
-#EXTINF:-1,SCAN A164
-http://170.244.209.30:8000/play/a164/index.m3u8
-#EXTINF:-1,SCAN A165
-http://170.244.209.30:8000/play/a165/index.m3u8
-#EXTINF:-1,SCAN A166
-http://170.244.209.30:8000/play/a166/index.m3u8
-#EXTINF:-1,SCAN A167
-http://170.244.209.30:8000/play/a167/index.m3u8
-#EXTINF:-1,SCAN A168
-http://170.244.209.30:8000/play/a168/index.m3u8
-#EXTINF:-1,SCAN A169
-http://170.244.209.30:8000/play/a169/index.m3u8
+#SCAN HLS 107.152.39.199 (01-100)
 
-#EXTINF:-1,SCAN A170
-http://170.244.209.30:8000/play/a170/index.m3u8
-#EXTINF:-1,SCAN A171
-http://170.244.209.30:8000/play/a171/index.m3u8
-#EXTINF:-1,SCAN A172
-http://170.244.209.30:8000/play/a172/index.m3u8
-#EXTINF:-1,SCAN A173
-http://170.244.209.30:8000/play/a173/index.m3u8
-#EXTINF:-1,SCAN A174
-http://170.244.209.30:8000/play/a174/index.m3u8
-#EXTINF:-1,SCAN A175
-http://170.244.209.30:8000/play/a175/index.m3u8
-#EXTINF:-1,SCAN A176
-http://170.244.209.30:8000/play/a176/index.m3u8
-#EXTINF:-1,SCAN A177
-http://170.244.209.30:8000/play/a177/index.m3u8
-#EXTINF:-1,SCAN A178
-http://170.244.209.30:8000/play/a178/index.m3u8
-#EXTINF:-1,SCAN A179
-http://170.244.209.30:8000/play/a179/index.m3u8
-
-#EXTINF:-1,SCAN A180
-http://170.244.209.30:8000/play/a180/index.m3u8
-#EXTINF:-1,SCAN A181
-http://170.244.209.30:8000/play/a181/index.m3u8
-#EXTINF:-1,SCAN A182
-http://170.244.209.30:8000/play/a182/index.m3u8
-#EXTINF:-1,SCAN A183
-http://170.244.209.30:8000/play/a183/index.m3u8
-#EXTINF:-1,SCAN A184
-http://170.244.209.30:8000/play/a184/index.m3u8
-#EXTINF:-1,SCAN A185
-http://170.244.209.30:8000/play/a185/index.m3u8
-#EXTINF:-1,SCAN A186
-http://170.244.209.30:8000/play/a186/index.m3u8
-#EXTINF:-1,SCAN A187
-http://170.244.209.30:8000/play/a187/index.m3u8
-#EXTINF:-1,SCAN A188
-http://170.244.209.30:8000/play/a188/index.m3u8
-#EXTINF:-1,SCAN A189
-http://170.244.209.30:8000/play/a189/index.m3u8
-
-#EXTINF:-1,SCAN A190
-http://170.244.209.30:8000/play/a190/index.m3u8
-#EXTINF:-1,SCAN A191
-http://170.244.209.30:8000/play/a191/index.m3u8
-#EXTINF:-1,SCAN A192
-http://170.244.209.30:8000/play/a192/index.m3u8
-#EXTINF:-1,SCAN A193
-http://170.244.209.30:8000/play/a193/index.m3u8
-#EXTINF:-1,SCAN A194
-http://170.244.209.30:8000/play/a194/index.m3u8
-#EXTINF:-1,SCAN A195
-http://170.244.209.30:8000/play/a195/index.m3u8
-#EXTINF:-1,SCAN A196
-http://170.244.209.30:8000/play/a196/index.m3u8
-#EXTINF:-1,SCAN A197
-http://170.244.209.30:8000/play/a197/index.m3u8
-#EXTINF:-1,SCAN A198
-http://170.244.209.30:8000/play/a198/index.m3u8
-#EXTINF:-1,SCAN A199
-http://170.244.209.30:8000/play/a199/index.m3u8
-
-#EXTINF:-1,SCAN A200
-http://170.244.209.30:8000/play/a200/index.m3u8
+#EXTINF:-1,SCAN Canal 01
+http://107.152.39.199:8030/hls/canal01.m3u8
+#EXTINF:-1,SCAN Canal 02
+http://107.152.39.199:8030/hls/canal02.m3u8
+#EXTINF:-1,SCAN Canal 03
+http://107.152.39.199:8030/hls/canal03.m3u8
+#EXTINF:-1,SCAN Canal 04
+http://107.152.39.199:8030/hls/canal04.m3u8
+#EXTINF:-1,SCAN Canal 05
+http://107.152.39.199:8030/hls/canal05.m3u8
+#EXTINF:-1,SCAN Canal 06
+http://107.152.39.199:8030/hls/canal06.m3u8
+#EXTINF:-1,SCAN Canal 07
+http://107.152.39.199:8030/hls/canal07.m3u8
+#EXTINF:-1,SCAN Canal 08
+http://107.152.39.199:8030/hls/canal08.m3u8
+#EXTINF:-1,SCAN Canal 09
+http://107.152.39.199:8030/hls/canal09.m3u8
+#EXTINF:-1,SCAN Canal 10
+http://107.152.39.199:8030/hls/canal10.m3u8
+#EXTINF:-1,SCAN Canal 11
+http://107.152.39.199:8030/hls/canal11.m3u8
+#EXTINF:-1,SCAN Canal 12
+http://107.152.39.199:8030/hls/canal12.m3u8
+#EXTINF:-1,SCAN Canal 13
+http://107.152.39.199:8030/hls/canal13.m3u8
+#EXTINF:-1,SCAN Canal 14
+http://107.152.39.199:8030/hls/canal14.m3u8
+#EXTINF:-1,SCAN Canal 15
+http://107.152.39.199:8030/hls/canal15.m3u8
+#EXTINF:-1,SCAN Canal 16
+http://107.152.39.199:8030/hls/canal16.m3u8
+#EXTINF:-1,SCAN Canal 17
+http://107.152.39.199:8030/hls/canal17.m3u8
+#EXTINF:-1,SCAN Canal 18
+http://107.152.39.199:8030/hls/canal18.m3u8
+#EXTINF:-1,SCAN Canal 19
+http://107.152.39.199:8030/hls/canal19.m3u8
+#EXTINF:-1,SCAN Canal 20
+http://107.152.39.199:8030/hls/canal20.m3u8
+#EXTINF:-1,SCAN Canal 21
+http://107.152.39.199:8030/hls/canal21.m3u8
+#EXTINF:-1,SCAN Canal 22
+http://107.152.39.199:8030/hls/canal22.m3u8
+#EXTINF:-1,SCAN Canal 23
+http://107.152.39.199:8030/hls/canal23.m3u8
+#EXTINF:-1,SCAN Canal 24
+http://107.152.39.199:8030/hls/canal24.m3u8
+#EXTINF:-1,SCAN Canal 25
+http://107.152.39.199:8030/hls/canal25.m3u8
+#EXTINF:-1,SCAN Canal 26
+http://107.152.39.199:8030/hls/canal26.m3u8
+#EXTINF:-1,SCAN Canal 27
+http://107.152.39.199:8030/hls/canal27.m3u8
+#EXTINF:-1,SCAN Canal 28
+http://107.152.39.199:8030/hls/canal28.m3u8
+#EXTINF:-1,SCAN Canal 29
+http://107.152.39.199:8030/hls/canal29.m3u8
+#EXTINF:-1,SCAN Canal 30
+http://107.152.39.199:8030/hls/canal30.m3u8
+#EXTINF:-1,SCAN Canal 31
+http://107.152.39.199:8030/hls/canal31.m3u8
+#EXTINF:-1,SCAN Canal 32
+http://107.152.39.199:8030/hls/canal32.m3u8
+#EXTINF:-1,SCAN Canal 33
+http://107.152.39.199:8030/hls/canal33.m3u8
+#EXTINF:-1,SCAN Canal 34
+http://107.152.39.199:8030/hls/canal34.m3u8
+#EXTINF:-1,SCAN Canal 35
+http://107.152.39.199:8030/hls/canal35.m3u8
+#EXTINF:-1,SCAN Canal 36
+http://107.152.39.199:8030/hls/canal36.m3u8
+#EXTINF:-1,SCAN Canal 37
+http://107.152.39.199:8030/hls/canal37.m3u8
+#EXTINF:-1,SCAN Canal 38
+http://107.152.39.199:8030/hls/canal38.m3u8
+#EXTINF:-1,SCAN Canal 39
+http://107.152.39.199:8030/hls/canal39.m3u8
+#EXTINF:-1,SCAN Canal 40
+http://107.152.39.199:8030/hls/canal40.m3u8
+#EXTINF:-1,SCAN Canal 41
+http://107.152.39.199:8030/hls/canal41.m3u8
+#EXTINF:-1,SCAN Canal 42
+http://107.152.39.199:8030/hls/canal42.m3u8
+#EXTINF:-1,SCAN Canal 43
+http://107.152.39.199:8030/hls/canal43.m3u8
+#EXTINF:-1,SCAN Canal 44
+http://107.152.39.199:8030/hls/canal44.m3u8
+#EXTINF:-1,SCAN Canal 45
+http://107.152.39.199:8030/hls/canal45.m3u8
+#EXTINF:-1,SCAN Canal 46
+http://107.152.39.199:8030/hls/canal46.m3u8
+#EXTINF:-1,SCAN Canal 47
+http://107.152.39.199:8030/hls/canal47.m3u8
+#EXTINF:-1,SCAN Canal 48
+http://107.152.39.199:8030/hls/canal48.m3u8
+#EXTINF:-1,SCAN Canal 49
+http://107.152.39.199:8030/hls/canal49.m3u8
+#EXTINF:-1,SCAN Canal 50
+http://107.152.39.199:8030/hls/canal50.m3u8
