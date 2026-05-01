@@ -6,7 +6,7 @@ http://170.244.209.30:8000/play/a1fe/index.m3u8
 #EXTINF:-1 tvg-name="RCN NOVELAS" tvg-logo=https://i.imgur.com/y3H8Fng.png" group-title="TV", RCN NOVELAS
 http://45.5.149.220:8000/play/a05c/index.m3u8
 
-#EXTINF:-1 tvg-name="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_o.png" group-title="TV", Telenovelas
+#EXTINF:-1 tvg-name="TELENOVELAS" tvg-logo=https://i.imgur.com/UETzZhZ.jpeg" group-title="TV", Telenovelas
 http://45.5.149.220:8000/play/a057/index.m3u8
 
 EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_o.png" group-title="TV", PASIONES 
