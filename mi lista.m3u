@@ -82,6 +82,6 @@ http://170.244.209.30:8000/play/a161/index.m3u8
 http://45.5.151.62:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="http" group-title="TV",TV PÚBLICA 
-http://45.5.151.62:8000/play/a00a/index.m3u8
+http://45.5.149.220:8000/play/a03g/index.m3u8
 
 
