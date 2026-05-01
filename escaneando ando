@@ -76,29 +76,7 @@ http://45.5.149.220:8000/play/a067/index.m3u8
 http://45.5.149.220:8000/play/a068/index.m3u8
 #EXTINF:-1,SCAN A069
 http://45.5.149.220:8000/play/a069/index.m3u8
-#EXTINF:-1,SCAN A070
-http://45.5.149.220:8000/play/a070/index.m3u8
-#EXTINF:-1,SCAN A071
-http://45.5.149.220:8000/play/a071/index.m3u8
-#EXTINF:-1,SCAN A072
-http://45.5.149.220:8000/play/a072/index.m3u8
-#EXTINF:-1,SCAN A073
-http://45.5.149.220:8000/play/a073/index.m3u8
-#EXTINF:-1,SCAN A074
-http://45.5.149.220:8000/play/a074/index.m3u8
-#EXTINF:-1,SCAN A075
-http://45.5.149.220:8000/play/a075/index.m3u8
-#EXTINF:-1,SCAN A076
-http://45.5.149.220:8000/play/a076/index.m3u8
-#EXTINF:-1,SCAN A077
-http://45.5.149.220:8000/play/a077/index.m3u8
-#EXTINF:-1,SCAN A078
-http://45.5.149.220:8000/play/a078/index.m3u8
-#EXTINF:-1,SCAN A079
-http://45.5.149.220:8000/play/a079/index.m3u8
-#EXTINF:-1,SCAN A080
-http://45.5.149.220:8000/play/a080/index.m3u8
-#EXTINF:-1,SCAN A081
+
 http://45.5.149.220:8000/play/a081/index.m3u8
 #EXTINF:-1,SCAN A082
 http://45.5.149.220:8000/play/a082/index.m3u8
