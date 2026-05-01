@@ -1,131 +1,61 @@
 #EXTM3U
 
---- SCAN A000 → A150 ---
+---- SCAN A033 - A100 ----
 
-#EXTINF:-1,A000
-http://45.5.149.220:8000/play/a000/index.m3u8
-#EXTINF:-1,A001
-http://45.5.149.220:8000/play/a001/index.m3u8
-#EXTINF:-1,A002
-http://45.5.149.220:8000/play/a002/index.m3u8
-#EXTINF:-1,A003
-http://45.5.149.220:8000/play/a003/index.m3u8
-#EXTINF:-1,A004
-http://45.5.149.220:8000/play/a004/index.m3u8
-#EXTINF:-1,A005
-http://45.5.149.220:8000/play/a005/index.m3u8
-#EXTINF:-1,A006
-http://45.5.149.220:8000/play/a006/index.m3u8
-#EXTINF:-1,A007
-http://45.5.149.220:8000/play/a007/index.m3u8
-#EXTINF:-1,A008
-http://45.5.149.220:8000/play/a008/index.m3u8
-#EXTINF:-1,A009
-http://45.5.149.220:8000/play/a009/index.m3u8
-#EXTINF:-1,A010
-http://45.5.149.220:8000/play/a010/index.m3u8
-#EXTINF:-1,A011
-http://45.5.149.220:8000/play/a011/index.m3u8
-#EXTINF:-1,A012
-http://45.5.149.220:8000/play/a012/index.m3u8
-#EXTINF:-1,A013
-http://45.5.149.220:8000/play/a013/index.m3u8
-#EXTINF:-1,A014
-http://45.5.149.220:8000/play/a014/index.m3u8
-#EXTINF:-1,A015
-http://45.5.149.220:8000/play/a015/index.m3u8
-#EXTINF:-1,A016
-http://45.5.149.220:8000/play/a016/index.m3u8
-#EXTINF:-1,A017
-http://45.5.149.220:8000/play/a017/index.m3u8
-#EXTINF:-1,A018
-http://45.5.149.220:8000/play/a018/index.m3u8
-#EXTINF:-1,A019
-http://45.5.149.220:8000/play/a019/index.m3u8
-#EXTINF:-1,A020
-http://45.5.149.220:8000/play/a020/index.m3u8
-#EXTINF:-1,A021
-http://45.5.149.220:8000/play/a021/index.m3u8
-#EXTINF:-1,A022
-http://45.5.149.220:8000/play/a022/index.m3u8
-#EXTINF:-1,A023
-http://45.5.149.220:8000/play/a023/index.m3u8
-#EXTINF:-1,A024
-http://45.5.149.220:8000/play/a024/index.m3u8
-#EXTINF:-1,A025
-http://45.5.149.220:8000/play/a025/index.m3u8
-#EXTINF:-1,A026
-http://45.5.149.220:8000/play/a026/index.m3u8
-#EXTINF:-1,A027
-http://45.5.149.220:8000/play/a027/index.m3u8
-#EXTINF:-1,A028
-http://45.5.149.220:8000/play/a028/index.m3u8
-#EXTINF:-1,A029
-http://45.5.149.220:8000/play/a029/index.m3u8
-#EXTINF:-1,A030
-http://45.5.149.220:8000/play/a030/index.m3u8
-#EXTINF:-1,A031
-http://45.5.149.220:8000/play/a031/index.m3u8
-#EXTINF:-1,A032
-http://45.5.149.220:8000/play/a032/index.m3u8
-#EXTINF:-1,A033
+#EXTINF:-1,SCAN A033
 http://45.5.149.220:8000/play/a033/index.m3u8
-#EXTINF:-1,A034
+#EXTINF:-1,SCAN A034
 http://45.5.149.220:8000/play/a034/index.m3u8
-#EXTINF:-1,A035
+#EXTINF:-1,SCAN A035
 http://45.5.149.220:8000/play/a035/index.m3u8
-#EXTINF:-1,A036
+#EXTINF:-1,SCAN A036
 http://45.5.149.220:8000/play/a036/index.m3u8
-#EXTINF:-1,A037
+#EXTINF:-1,SCAN A037
 http://45.5.149.220:8000/play/a037/index.m3u8
-#EXTINF:-1,A038
+#EXTINF:-1,SCAN A038
 http://45.5.149.220:8000/play/a038/index.m3u8
-#EXTINF:-1,A039
+#EXTINF:-1,SCAN A039
 http://45.5.149.220:8000/play/a039/index.m3u8
-#EXTINF:-1,A040
+#EXTINF:-1,SCAN A040
 http://45.5.149.220:8000/play/a040/index.m3u8
-#EXTINF:-1,A041
+#EXTINF:-1,SCAN A041
 http://45.5.149.220:8000/play/a041/index.m3u8
-#EXTINF:-1,A042
+#EXTINF:-1,SCAN A042
 http://45.5.149.220:8000/play/a042/index.m3u8
-#EXTINF:-1,A043
+#EXTINF:-1,SCAN A043
 http://45.5.149.220:8000/play/a043/index.m3u8
-#EXTINF:-1,A044
+#EXTINF:-1,SCAN A044
 http://45.5.149.220:8000/play/a044/index.m3u8
-#EXTINF:-1,A045
+#EXTINF:-1,SCAN A045
 http://45.5.149.220:8000/play/a045/index.m3u8
-#EXTINF:-1,A046
+#EXTINF:-1,SCAN A046
 http://45.5.149.220:8000/play/a046/index.m3u8
-#EXTINF:-1,A047
+#EXTINF:-1,SCAN A047
 http://45.5.149.220:8000/play/a047/index.m3u8
-#EXTINF:-1,A048
+#EXTINF:-1,SCAN A048
 http://45.5.149.220:8000/play/a048/index.m3u8
-#EXTINF:-1,A049
+#EXTINF:-1,SCAN A049
 http://45.5.149.220:8000/play/a049/index.m3u8
-#EXTINF:-1,A050
+#EXTINF:-1,SCAN A050
 http://45.5.149.220:8000/play/a050/index.m3u8
-#EXTINF:-1,A060
+#EXTINF:-1,SCAN A051
 http://45.5.149.220:8000/play/a051/index.m3u8
-#EXTINF:-1,A070
+#EXTINF:-1,SCAN A052
 http://45.5.149.220:8000/play/a052/index.m3u8
-#EXTINF:-1,A080
+#EXTINF:-1,SCAN A053
 http://45.5.149.220:8000/play/a053/index.m3u8
-#EXTINF:-1,A090
+#EXTINF:-1,SCAN A054
 http://45.5.149.220:8000/play/a054/index.m3u8
-#EXTINF:-1,A100
+#EXTINF:-1,SCAN A055
 http://45.5.149.220:8000/play/a055/index.m3u8
-#EXTINF:-1,A110
+#EXTINF:-1,SCAN A056
 http://45.5.149.220:8000/play/a056/index.m3u8
-#EXTINF:-1,A120
+#EXTINF:-1,SCAN A057
 http://45.5.149.220:8000/play/a057/index.m3u8
-#EXTINF:-1,A130
+#EXTINF:-1,SCAN A058
 http://45.5.149.220:8000/play/a058/index.m3u8
-#EXTINF:-1,A140
+#EXTINF:-1,SCAN A059
 http://45.5.149.220:8000/play/a059/index.m3u8
-#EXTM3U
-
-# ---- SCAN A060 - A100 ----
-
 #EXTINF:-1,SCAN A060
 http://45.5.149.220:8000/play/a060/index.m3u8
 #EXTINF:-1,SCAN A061
@@ -146,7 +76,6 @@ http://45.5.149.220:8000/play/a067/index.m3u8
 http://45.5.149.220:8000/play/a068/index.m3u8
 #EXTINF:-1,SCAN A069
 http://45.5.149.220:8000/play/a069/index.m3u8
-
 #EXTINF:-1,SCAN A070
 http://45.5.149.220:8000/play/a070/index.m3u8
 #EXTINF:-1,SCAN A071
@@ -167,7 +96,6 @@ http://45.5.149.220:8000/play/a077/index.m3u8
 http://45.5.149.220:8000/play/a078/index.m3u8
 #EXTINF:-1,SCAN A079
 http://45.5.149.220:8000/play/a079/index.m3u8
-
 #EXTINF:-1,SCAN A080
 http://45.5.149.220:8000/play/a080/index.m3u8
 #EXTINF:-1,SCAN A081
@@ -188,7 +116,6 @@ http://45.5.149.220:8000/play/a087/index.m3u8
 http://45.5.149.220:8000/play/a088/index.m3u8
 #EXTINF:-1,SCAN A089
 http://45.5.149.220:8000/play/a089/index.m3u8
-
 #EXTINF:-1,SCAN A090
 http://45.5.149.220:8000/play/a090/index.m3u8
 #EXTINF:-1,SCAN A091
