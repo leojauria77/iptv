@@ -2,26 +2,6 @@
 
 #SCAN IPTV 138.59.227.20 A051-A100
 
-#EXTINF:-1,SCAN A051
-http://138.59.227.20:8000/play/a051/index.m3u8
-#EXTINF:-1,SCAN A052
-http://138.59.227.20:8000/play/a052/index.m3u8
-#EXTINF:-1,SCAN A053
-http://138.59.227.20:8000/play/a053/index.m3u8
-#EXTINF:-1,SCAN A054
-http://138.59.227.20:8000/play/a054/index.m3u8
-#EXTINF:-1,SCAN A055
-http://138.59.227.20:8000/play/a055/index.m3u8
-#EXTINF:-1,SCAN A056
-http://138.59.227.20:8000/play/a056/index.m3u8
-#EXTINF:-1,SCAN A057
-http://138.59.227.20:8000/play/a057/index.m3u8
-#EXTINF:-1,SCAN A058
-http://138.59.227.20:8000/play/a058/index.m3u8
-#EXTINF:-1,SCAN A059
-http://138.59.227.20:8000/play/a059/index.m3u8
-#EXTINF:-1,SCAN A060
-http://138.59.227.20:8000/play/a060/index.m3u8
 #EXTINF:-1,SCAN A061
 http://138.59.227.20:8000/play/a061/index.m3u8
 #EXTINF:-1,SCAN A062
