@@ -1,0 +1,344 @@
+{
+  "groups": [
+    {
+      "name": "ðŸŒŽ INTERNACIONAL",
+      "stations": [
+        {
+          "name": "RAI Italia",
+          "image": "https://i.postimg.cc/0Q8gMYVX/rai-italia.png",
+          "url": "https://1184-tbx.vrioott.com/rai/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"gzk9vlfOVaiC9lo7OoSTvg\",\"k\":\"MA+awRW/ProLfHR406K5OQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "FOX NEWS",
+          "image": "https://i.postimg.cc/RVD8R50K/7859188007578.png",
+          "url": "https://1114-tbx.vrioott.com/foxnews/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"7OWGG22rV+GAe6oISCSi5g\",\"k\":\"xObphTUVdkL/+onloqLaPQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Bloomberg Television Latin America",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/5518044607730.png",
+          "url": "https://1025-tbx.vrioott.com/bloomberglat/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qlV3zM3zVpqEgle7QxN5rw\",\"k\":\"M6cA4ybJk8I5LB18W06hCw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Bloomberg Television Brazil",
+          "image": "https://static.flow.com.ar/images/-/-/0/0/5518044607730.png",
+          "url": "https://0178-tbx.vrioott.com/bloomberg/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"W1qbY21HVpiDVXJLuiJRGg\",\"k\":\"5ldI5ZSssxclEwMZcJ4zKA\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ðŸ¿ PACK PREMIUM",
+      "stations": [
+        {
+          "name": "HBO",
+          "image": "https://i.ibb.co/VjjgVWW/hbo.png",
+          "url": "https://1140-tbx.vrioott.com/hbo/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/HBO.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO PLUS",
+          "image": "https://i.ibb.co/4RvrQtL/hbomas.png",
+          "url": "https://1141-tbx.vrioott.com/hboplusla/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/HBO+.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HBO 2",
+          "image": "https://i.ibb.co/mRXxtcT/hbo2.png",
+          "url": "https://1137-tbx.vrioott.com/hbo2la/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/HBO2.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL REALITY",
+          "image": "https://i.postimg.cc/qqHHTYmN/unreality.png",
+          "url": "https://1252-tbx.vrioott.com/universalreality/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/UNIVERSALREALITY.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL CINEMA",
+          "image": "https://i.postimg.cc/hGL89fxm/uncinema.png",
+          "url": "https://1253-tbx.vrioott.com/universalcinema/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL COMEDY",
+          "image": "https://i.postimg.cc/XYR8QbXB/uncomedy.png",
+          "url": "https://1252-tbx.vrioott.com/universalcomedy/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/UNIVERSALCOMEDY.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL PREMIERE",
+          "image": "https://i.postimg.cc/CLM6qSfF/unpremiere.png",
+          "url": "https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "UNIVERSAL CRIME",
+          "image": "https://i.postimg.cc/cCFhmt8d/uncrime.png",
+          "url": "https://1254-tbx.vrioott.com/universalcrimeeste/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/UNIVERSALCRIME.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ðŸ“º CINE & SERIES",
+      "stations": [
+        {
+          "name": "AMC Series",
+          "image": "https://i.postimg.cc/mDj17gQ8/amc-series.png",
+          "url": "https://1161-tbx.vrioott.com/maschic/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"38d7TpZfWmOOduAgN4LkGw\",\"k\":\"/JQuPTfOZ6gZeacnfoHWHQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Star Channel Argentina",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/400/400/0/0/6901418607879.png",
+          "url": "https://1196-tbx.vrioott.com/starchannelarg/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/STARCHANNEL.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ðŸ‘¨â€ðŸ‘©â€ðŸ‘¦ INFANTILES",
+      "stations": [
+        {
+          "name": "Cartoonito",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/481/CH_LOGO/400/400/0/0/1490409807453.png? worldtv2",
+          "url": "https://1026-tbx.vrioott.com/cartoonitola/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/CARTOONITO.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Cartoon Network",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/60/CH_LOGO/400/400/0/0/18422580072845.png? worldtv2",
+          "url": "https://1037-tbx.vrioott.com/cartoonnetwork/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/CARTOONNETWORK.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Nick Jr.",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/400/400/0/0/61362740071226.png? worldtv2",
+          "url": "https://1173-tbx.vrioott.com/nickjrla/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/NICKJR.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Nickelodeon",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/400/400/0/0/70239189071229.png? worldtv2",
+          "url": "https://1175-tbx.vrioott.com/nickelodeon/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/NICKELODEON.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ðŸ¢ CULTURA",
+      "stations": [
+        {
+          "name": "Discovery TLC Brasil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/400/400/0/0/46230374071624.png",
+          "url": "https://0025-tbx.vrioott.com/tlcbr/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"sjE7aIMBU7+NVCsYm/XjKA\",\"k\":\"OTjEQMomC+1Oh7vllo07eg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery TLC",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/400/400/0/0/46230374071624.png",
+          "url": "https://1224-tbx.vrioott.com/tlc/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/TLC.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "HGTV Brasil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/268/CH_LOGO/400/400/0/0/28796844071531.png",
+          "url": "https://0049-tbx.vrioott.com/hgtv/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"6PDnFoZ7XwSOLMJlSA4fuA\",\"k\":\"pmrnlT6GZGQF3ZlrTBePow\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Theater Brasil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/400/400/0/0/72670030071181.png",
+          "url": "https://0074-tbx.vrioott.com/discoverytheaterbr/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ewCoNOrjWd+DRysQk0ziHg\",\"k\":\"6heAx+Aodf99Alxa1/jQlg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery World Brasil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/69/CH_LOGO/400/400/0/0/24981309071389.png",
+          "url": "https://0102-tbx.vrioott.com/discoveryworldbr/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"mxgrvRq8WhCKNkvbPwXKSg\",\"k\":\"B7W5735IB+EGshR1VynZOg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Science Brasil",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/400/400/0/0/9654717907493.png",
+          "url": "https://0058-tbx.vrioott.com/discoverysciencebr/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"qI12YGbGV/SNbviWvO/Njg\",\"k\":\"O3bb0yy7a1RER2UVpExeNg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "History 2",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/400/400/0/0/16627153073621.png",
+          "url": "https://1147-tbx.vrioott.com/historychannel2/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/HISTORY2.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Investigation Discovery",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/400/400/0/0/6146615007111.png",
+          "url": "https://1077-tbx.vrioott.com/discoveryidar/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/DISCOVERYID.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Discovery Turbo",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/262/CH_LOGO/400/400/0/0/2118831607492.png",
+          "url": "https://1081-tbx.vrioott.com/discoveryturbo/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/DISCOVERYTURBO.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Animal Planet",
+          "image": "https://geo.edge.pontiscloud.com:9002/images/43/CH_LOGO/400/400/0/0/93120001074605.png",
+          "url": "https://1013-tbx.vrioott.com/animalplanet/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "https://vertex-plus.es/licence/ANIMALPLANET.DGO.json",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    },
+    {
+      "name": "ðŸ“º NOVELAS y VARIEDADES",
+      "stations": [
+        {
+          "name": "Clic",
+          "image": "https://i.postimg.cc/wjfdpFMb/clic.png",
+          "url": "https://1021-tbx.vrioott.com/aztecaclic/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"ZY5XMkaoVtiAqHe2nRrXFQ\",\"k\":\"6V5PE5lknQ7Q+tk1FozZdQ\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "CorazÃ³n",
+          "image": "https://i.postimg.cc/Ssz2BDL7/corazon.png",
+          "url": "https://1022-tbx.vrioott.com/aztecacorazon/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"8ixHUtrsWaWEuVDX2vU43A\",\"k\":\"pLccxn3Z0wWzZ8WkiOMsfg\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        },
+        {
+          "name": "Azteca Internacional",
+          "image": "https://i.postimg.cc/D0PZhDSG/azteca-int.png",
+          "url": "https://1023-tbx.vrioott.com/aztecamundo/manifest.mpd",
+          "license_type": "clearkey",
+          "license_key": "{\"keys\":[{\"kty\":\"oct\",\"kid\":\"B+MkrqICXnKHd4NcW4/tNg\",\"k\":\"tXuM9W8q1xQAgONW7Krmzw\"}],\"type\":\"temporary\"}",
+          "headers": {
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+          }
+        }
+      ]
+    }
+  ]
+}
