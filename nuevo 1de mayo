@@ -1,329 +1,55 @@
-{
-  "name": "Lista Canales globales ⚽",
-  "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-  "author": "MAS LISTAS CLIC AQUI",
-  "url": "https://linktr.ee/pruba123",
-  "info": "Para que tus amigos accedan a esta lista que coloquen este codigo en clippy: 6919014",
-  "groups": [
-    {
-      "name": "Canales latamm VPN AR",
-      "image": "https://cdn-icons-png.flaticon.com/512/4483/4483683.png",
-      "url": "https://azzplay.pages.dev/lsts/ar.w3u"
-    },
-    {
-      "name": "Canales Latam server 2",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/ar3.w3u"
-    },
-    {
-      "name": "LISTA GLOBAL",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/global.w3u"
-    },
-    {
-      "name": "Canales latam GLOBALES",
-      "image": "https://static.vecteezy.com/system/resources/thumbnails/000/217/989/small/south-america-map.jpg",
-      "url": "https://azzplay.pages.dev/lsts/tvx.w3u"
-    },
-    {
-      "name": "Deportes GLOBALES",
-      "image": "https://img.icons8.com/bubbles/1200/football2.jpg",
-      "url": "https://azzplay.pages.dev/lsts/deportescloud.w3u"
-    },
-    {
-      "name": "Disney eventos",
-      "stations": [
-        {
-          "name": "DISNEY EVENT  1",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp10.com/global1.php?stream=disney1",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=disney1",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "DISNEY EVENT  2",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp10.com/global1.php?stream=disney2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=disney2",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 3",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp10.com/global1.php?stream=disney3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=disney3",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 4",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp10.com/global1.php?stream=disney4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=disney4",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "DISNEY EVENT 5",
-          "image": "https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg",
-          "url": "https://streamtp10.com/global1.php?stream=disney5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=disney5",
-            "Origin": "https://streamtp10.com"
-          }
-        }
-      ]
-    },
-    {
-      "name": "DEPORTES",
-      "stations": [
-        {
-          "name": "ESPN 1",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 2",
-          "image": "https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn2",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 3",
-          "image": "https://logodix.com/logo/1599250.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn3",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn3",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 4",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn4",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn4",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 5",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn5",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn5",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 6",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn6",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn6",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "ESPN 7",
-          "image": "https://brandlogos.net/wp-content/uploads/2021/12/espn-brandlogo.net_.png",
-          "url": "https://streamtp10.com/global1.php?stream=espn7",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=espn7",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "FOX SPORTS AR",
-          "image": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-          "url": "https://streamtp10.com/global1.php?stream=fox1ar",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=fox1ar",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "FOX SPORTS 2 AR",
-          "image": "https://images.seeklogo.com/logo-png/36/1/fox-sports-2-logo-png_seeklogo-369602.png",
-          "url": "https://streamtp10.com/global1.php?stream=fox2ar",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=fox2ar",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "WIN+",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/c/c1/Win%2BF%C3%BAtbol.png",
-          "url": "https://streamtp10.com/global1.php?stream=winplus",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=winplus",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "Win sports",
-          "image": "https://images.seeklogo.com/logo-png/64/1/win-sports-logo-png_seeklogo-644046.png",
-          "url": "https://streamtp10.com/global1.php?stream=winsports",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://streamtp10.com/global1.php?stream=winsports",
-            "Origin": "https://streamtp10.com"
-          }
-        },
-        {
-          "name": "Dsports",
-          "image": "https://mir-s3-cdn-cf.behance.net/projects/404/3049c9206241453.Y3JvcCwxMDgwLDg0NCwwLDEwNA.jpg",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dsports",
-            "Origin": "https://la14hd.com"
-          }
-        },
-        {
-          "name": "Dsports 2",
-          "image": "https://bestleague.world/img/dsports2.webp",
-          "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=dsports2",
-            "Origin": "https://la14hd.com"
-          }
-        },
-        {
-          "name": "TNT SPORTS",
-          "image": "https://images.seeklogo.com/logo-png/48/1/tnt-sports-logo-png_seeklogo-486966.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=tntsports",
-            "Origin": "https://la14hd.com"
-          }
-        },
-        {
-          "name": "ESPN PREMIUM AR",
-          "image": "https://cdn.storage.foromedios.com/monthly_2022_05/837767101_ESPNPremium(10).thumb.png.7b760af4908388e4ef1e793583699676.png",
-          "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 15; sdk_gphone64_x86_64 Build/AE3A.240806.043; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.219 Mobile Safari/537.36",
-            "Referer": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-            "Origin": "https://la14hd.com"
-          }
-        }
-      ]
-    },
-    {
-      "name": "🍿 PACK PREMIUM",
-      "stations": [
-        {
-          "name": "HBO",
-          "image": "https://i.ibb.co/VjjgVWW/hbo.png",
-          "url": "https://1140-tbx.vrioott.com/hbo/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/HBO.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "HBO PLUS",
-          "image": "https://i.ibb.co/4RvrQtL/hbomas.png",
-          "url": "https://1141-tbx.vrioott.com/hboplusla/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/HBO+.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "HBO 2",
-          "image": "https://i.ibb.co/mRXxtcT/hbo2.png",
-          "url": "https://1137-tbx.vrioott.com/hbo2la/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/HBO2.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL REALITY",
-          "image": "https://i.postimg.cc/qqHHTYmN/unreality.png",
-          "url": "https://1252-tbx.vrioott.com/universalreality/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALREALITY.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL CINEMA",
-          "image": "https://i.postimg.cc/hGL89fxm/uncinema.png",
-          "url": "https://1253-tbx.vrioott.com/universalcinema/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCINEMA.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL COMEDY",
-          "image": "https://i.postimg.cc/XYR8QbXB/uncomedy.png",
-          "url": "https://1252-tbx.vrioott.com/universalcomedy/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCOMEDY.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL PREMIERE",
-          "image": "https://i.postimg.cc/CLM6qSfF/unpremiere.png",
-          "url": "https://1256-tbx.vrioott.com/universalpremiereeste/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALPREMIERE.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        },
-        {
-          "name": "UNIVERSAL CRIME",
-          "image": "https://i.postimg.cc/cCFhmt8d/uncrime.png",
-          "url": "https://1254-tbx.vrioott.com/universalcrimeeste/manifest.mpd",
-          "license_type": "clearkey",
-          "license_key": "https://vertex-plus.es/licence/UNIVERSALCRIME.DGO.json",
-          "headers": {
-            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-          }
-        }
-      ]
-    }
-  ]
-}
+*ExXTM3U 
+
+*EXTINF:-1 tvg-1d0="Stv.ar”,5TV Corrientes (480p) |Not 24/7) 
+
+http: //www.coninto.net:1935/tvc1nco/ l1ive1/p lay List .m3u8 
+
+*EXTINF:-1 tvg-1d="13MaxTelevision.ar",l3Max Television (1086p) http://coninto.net:1935/13maxnd/ l1vel3maxtvnuevo/p lay L1st .m3u8 REXTINF: -1 tvg-1d="13MaxTelevislon.ar",1i3Max Television (720p) http://coninto.net:1935/13maxhd/ livel3maxtvnuevo_720p7/p lay List .m3u8 *SEXTINF:-1 tvg-1d="247CanmaldeNoticias.ar",24/7 Canal de Noticias (720p) https://59c5c86e10038.streamlock.net/6605140/6605140/play list .m3u8 SEXTINF:-1 tvg-1d="247Cana ldeNoticias.ar",24/7 Canal de Noticias (720p) https: //panel.dattallve.com/6605140/6605140/p lay list .m3u8 
+
+SEXTINF:-1 tvg-1d="247CanaldeNoticias.ar”,24/7 Canat de Noticias (720p) https://panel.dattalive.com/6605140/sm1 | :6605140.sm1L/play L1st .m3u8 *EXTINF:-1 tvg-1d="A24.ar” user-agent="1Phone",A24 (720p) *EXTVLCOPT:httpuser -agent=1Phone nttps://g1.vxral-hor,transport.edge-access.net/al>/ngrp:az4-100056 atlvaZza100056 .m3u8 
+
+*EXTINF:-1 tvg-10="AlredeSantaFe.ar”",Alre de Santa Fe (1080p) https://unlimited1-us.dps.live/alredesantatetv/alredesantatetv.sm1l/playl1st.m3u8 *EXTINF:-1 tvg-1d0="Az1redeSantaFe.ar”,Alre de Santa Fe (480p) https://sc1.stweb.tv/al1redig1tal/l1ive/playl1st.m3u8 
+
+*+EXTINF:-1 tvg-1d="AlternaTV.ar”",AlternaTV (720p) https://alternatv.ar/stream/hls/tive.m3u8 
+
+*EXTINF:-1 tvg-1d="Am1020.ar“,Am1020 (360p) [Geo-blocked] 
+
+http: //51.79.83.93:9998/ l1ve/am10209/playl1st.m3u8 
+
+*EXTINF:-1 tvg-1d="AmericaTV.ar” user-agent="1Phone”, América TV (720p) R*EXTVLCOPT:http-user -agent=1Phone https://raw.gl1thubusercontent.com/MachineSystems/archived m3u8/maln/ america hls.m3u8 
+
+REXTINF:-1 tvg-1d="Antena91.ar”, Antena 91 (720p) https://tuvideoon line.com.ar :3393/lLive/antena91live.m3u8 
+
+*EXTINF:-1 tvg-1d4="ArgentinasimaSatelital.ar",Argentinisima Satelital (540p) https://streami.sersat.com/hls/argentinisima.m3u8 
+
+REXTINF:-1 tvg-1d="AstroNet.ar",AstroNet (360p) 
+
+https://stmv1.cnar latam.com/astronet/astronet/playl1st.m3u8 
+
+*+EXTINF:-1 tvg-1d="ATVArgentina.ar", ATV Argentina (540p) https://stream.arcast.com.ar/atbargentina/atbargentina?p lay list.m3u8 *EXTINF:-1 tvg-1d="Aunar.ar",Aunar (720p) 
+
+https: //53800bde28ccT.streamlock.net/ lLive-cont .ar/mirador/ .m3u8 *EXTINF:-1 tvg-1d="AVCHD.ar",AVC HD (720p) 
+
+https: //ssh101.bozztv.com/ssh101/streamavc/playtist.m3u8 
+
+FEXTINF:-1 tvg-1d="AventurasTV.ar", Aventuras TV (360p) 
+
+https: //stmv1.cnar latam.com/mundotv/mundotv/playt1st .m3u8 
+
+*+EXTINF:-1 tvg-1d="AzaharesRadiov1suaiMultimedia.ar”,Azahares Radio Multimedia (720p) 
+
+https: //streamyes.alsotnet.com/azaharestm/ live/playl1st.m3u8 REXTINF:-1 Uvg-1d="AZMIV.ar”",AlM IV (1088p) [Not 24//] https://live.canalnueve.tv/canal.m3u8 
+
+FEXTINF:-1 tvg-1d="BayresTV.ar”,Bayres TV (720p) 
+
+https: //streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8 R*+EXTINF:-1 tvg-1d="BeatsRadi0.ar",Beats Radio (480p) https://videostream.shockmedi1a.com.ar:19360/beatsrad10/beatsradi1o.m3u8 *EXTINF:-1 tvg-1d="BVC.ar",BvVC (720p) 
+
+https: //vivo.solumedia.com:19369/bvconline/bvconline.m3u8 
+
+*EXTINF:-1 tvg-1d="CablelmagenArmstrong.ar",Cable Imagen Armstrong (540p) (Not 24/7] 
+
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8 
+
+*EXTINF:-1 tvg-1d="Cadenal03TV.ar”, Cadena 103 (720p) |Not 24/7] 
+
+http: //arcast.net:1935/cadenal03/cadena103/p lay l1st.m3u8 
