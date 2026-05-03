@@ -173,10 +173,6 @@ http://45.5.149.220:8000/play/a07p/index.m3u8
 http://45.5.149.220:8000/play/a07q/index.m3u8
 #EXTINF:-1,A07R
 http://45.5.149.220:8000/play/a07r/index.m3u8
-#EXTM3U
-
---- A04A a A04Z ---
-
 #EXTINF:-1,A04A
 http://138.59.227.20:8000/play/a04a/index.m3u8
 #EXTINF:-1,A04B
@@ -229,9 +225,6 @@ http://138.59.227.20:8000/play/a04x/index.m3u8
 http://138.59.227.20:8000/play/a04y/index.m3u8
 #EXTINF:-1,A04Z
 http://138.59.227.20:8000/play/a04z/index.m3u8
-
---- A05A a A05Z ---
-
 #EXTINF:-1,A05A
 http://138.59.227.20:8000/play/a05a/index.m3u8
 #EXTINF:-1,A05B
