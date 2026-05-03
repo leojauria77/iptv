@@ -90,7 +90,7 @@ http://138.59.227.20:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="ESPN PREMIUN" tvg-name="ESPN PREMIUN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium LEO⭐⭐⭐
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium LEO
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium LEO⭐⭐⭐
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe Leo
