@@ -196,8 +196,7 @@ http://138.59.227.20:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Q MUSICA" tvg-logo="" group-title="SCAN",A06S
 http://138.59.227.20:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HTV
-" tvg-logo="" group-title="SCAN",A06T
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="SCAN",A06T
 http://138.59.227.20:8000/play/a06t/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="" group-title="SCAN",A06U
