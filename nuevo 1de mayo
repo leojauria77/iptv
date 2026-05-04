@@ -2,52 +2,52 @@
 
 IPTV 138.59.227.20
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A061" tvg-logo="" group-title="SCAN",SCAN A061
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA SPORT" tvg-logo="" group-title="SCAN",SCAN A061
 http://138.59.227.20:8000/play/a061/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A062" tvg-logo="" group-title="SCAN",SCAN A062
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="SCAN",SCAN A062
 http://138.59.227.20:8000/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A063" tvg-logo="" group-title="SCAN",SCAN A063
 http://138.59.227.20:8000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A064" tvg-logo="" group-title="SCAN",SCAN A064
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="SCAN",SCAN A064
 http://138.59.227.20:8000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A065" tvg-logo="" group-title="SCAN",SCAN A065
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="SCAN",SCAN A065
 http://138.59.227.20:8000/play/a065/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A066" tvg-logo="" group-title="SCAN",SCAN A066
+#EXTINF:-1 tvg-id="" tvg-name="VOLVER" tvg-logo="" group-title="SCAN",SCAN A066
 http://138.59.227.20:8000/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A067" tvg-logo="" group-title="SCAN",SCAN A067
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL STUDIO" tvg-logo="" group-title="SCAN",SCAN A067
 http://138.59.227.20:8000/play/a067/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A068" tvg-logo="" group-title="SCAN",SCAN A068
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" group-title="SCAN",SCAN A068
 http://138.59.227.20:8000/play/a068/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A069" tvg-logo="" group-title="SCAN",SCAN A069
+#EXTINF:-1 tvg-id="" tvg-name="CINE AR" tvg-logo="" group-title="SCAN",SCAN A069
 http://138.59.227.20:8000/play/a069/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A070" tvg-logo="" group-title="SCAN",SCAN A070
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="SCAN",SCAN A070
 http://138.59.227.20:8000/play/a070/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A071" tvg-logo="" group-title="SCAN",SCAN A071
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="SCAN",SCAN A071
 http://138.59.227.20:8000/play/a071/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A072" tvg-logo="" group-title="SCAN",SCAN A072
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="SCAN",SCAN A072
 http://138.59.227.20:8000/play/a072/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A073" tvg-logo="" group-title="SCAN",SCAN A073
+#EXTINF:-1 tvg-id="" tvg-name="AMC SERIES" tvg-logo="" group-title="SCAN",SCAN A073
 http://138.59.227.20:8000/play/a073/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A074" tvg-logo="" group-title="SCAN",SCAN A074
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="SCAN",SCAN A074
 http://138.59.227.20:8000/play/a074/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A075" tvg-logo="" group-title="SCAN",SCAN A075
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS" tvg-logo="" group-title="SCAN",SCAN A075
 http://138.59.227.20:8000/play/a075/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A076" tvg-logo="" group-title="SCAN",SCAN A076
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="" group-title="SCAN",SCAN A076
 http://138.59.227.20:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A077" tvg-logo="" group-title="SCAN",SCAN A077
@@ -59,7 +59,7 @@ http://138.59.227.20:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A079" tvg-logo="" group-title="SCAN",SCAN A079
 http://138.59.227.20:8000/play/a079/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A080" tvg-logo="" group-title="SCAN",SCAN A080
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="SCAN",SCAN A080
 http://138.59.227.20:8000/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A081" tvg-logo="" group-title="SCAN",SCAN A081
@@ -68,28 +68,28 @@ http://138.59.227.20:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A082" tvg-logo="" group-title="SCAN",SCAN A082
 http://138.59.227.20:8000/play/a082/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A083" tvg-logo="" group-title="SCAN",SCAN A083
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="SCAN",SCAN A083
 http://138.59.227.20:8000/play/a083/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A084" tvg-logo="" group-title="SCAN",SCAN A084
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="" group-title="SCAN",SCAN A084
 http://138.59.227.20:8000/play/a084/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A085" tvg-logo="" group-title="SCAN",SCAN A085
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="" group-title="SCAN",SCAN A085
 http://138.59.227.20:8000/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A086" tvg-logo="" group-title="SCAN",SCAN A086
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUN" tvg-logo="" group-title="SCAN",SCAN A086
 http://138.59.227.20:8000/play/a086/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A087" tvg-logo="" group-title="SCAN",SCAN A087
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="" group-title="SCAN",SCAN A087
 http://138.59.227.20:8000/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A088" tvg-logo="" group-title="SCAN",SCAN A088
 http://138.59.227.20:8000/play/a088/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A089" tvg-logo="" group-title="SCAN",SCAN A089
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="" group-title="SCAN",SCAN A089
 http://138.59.227.20:8000/play/a089/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A090" tvg-logo="" group-title="SCAN",SCAN A090
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="" group-title="SCAN",SCAN A090
 http://138.59.227.20:8000/play/a090/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A091" tvg-logo="" group-title="SCAN",SCAN A091
@@ -98,37 +98,37 @@ http://138.59.227.20:8000/play/a091/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A092" tvg-logo="" group-title="SCAN",SCAN A092
 http://138.59.227.20:8000/play/a092/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A093" tvg-logo="" group-title="SCAN",SCAN A093
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="SCAN",SCAN A093
 http://138.59.227.20:8000/play/a093/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A094" tvg-logo="" group-title="SCAN",SCAN A094
+#EXTINF:-1 tvg-id="" tvg-name="AMÉRICA TV" tvg-logo="" group-title="SCAN",SCAN A094
 http://138.59.227.20:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A095" tvg-logo="" group-title="SCAN",SCAN A095
+#EXTINF:-1 tvg-id="" tvg-name="TV PÚBLICA" tvg-logo="" group-title="SCAN",SCAN A095
 http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A096" tvg-logo="" group-title="SCAN",SCAN A096
 http://138.59.227.20:8000/play/a096/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A097" tvg-logo="" group-title="SCAN",SCAN A097
+#EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="" group-title="SCAN",SCAN A097
 http://138.59.227.20:8000/play/a097/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A098" tvg-logo="" group-title="SCAN",SCAN A098
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="SCAN",SCAN A098
 http://138.59.227.20:8000/play/a098/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A099" tvg-logo="" group-title="SCAN",SCAN A099
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="SCAN",SCAN A099
 http://138.59.227.20:8000/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A100" tvg-logo="" group-title="SCAN",SCAN A100
 http://138.59.227.20:8000/play/a100/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05S" tvg-logo="" group-title="SCAN",A05S
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ENCUENTRO" tvg-logo="" group-title="SCAN",A05S
 http://138.59.227.20:8000/play/a05s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05T" tvg-logo="" group-title="SCAN",A05T
+#EXTINF:-1 tvg-id="" tvg-name="PAKA PAKA" tvg-logo="" group-title="SCAN",A05T
 http://138.59.227.20:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05U" tvg-logo="" group-title="SCAN",A05U
+#EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="SCAN",A05U
 http://138.59.227.20:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A05V" tvg-logo="" group-title="SCAN",A05V
@@ -289,7 +289,7 @@ http://138.59.227.20:8000/play/a08h/index.m3u8
 http://138.59.227.20:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08J" tvg-logo="" group-title="SCAN",SCAN A08J
 http://138.59.227.20:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08K" tvg-logo="" group-title="SCAN",SCAN A08K
+#EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="" group-title="SCAN",SCAN A08K
 http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08L" tvg-logo="" group-title="SCAN",SCAN A08L
 http://138.59.227.20:8000/play/a08l/index.m3u8
@@ -305,7 +305,7 @@ http://138.59.227.20:8000/play/a08p/index.m3u8
 http://138.59.227.20:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08R" tvg-logo="" group-title="SCAN",SCAN A08R
 http://138.59.227.20:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08S" tvg-logo="" group-title="SCAN",SCAN A08S
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="SCAN",SCAN A08S
 http://138.59.227.20:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08T" tvg-logo="" group-title="SCAN",SCAN A08T
 http://138.59.227.20:8000/play/a08t/index.m3u8
@@ -315,32 +315,32 @@ http://138.59.227.20:8000/play/a08u/index.m3u8
 http://138.59.227.20:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08W" tvg-logo="" group-title="SCAN",SCAN A08W
 http://138.59.227.20:8000/play/a08w/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08X" tvg-logo="" group-title="SCAN",SCAN A08X
+#EXTINF:-1 tvg-name="INFANTIL" tvg-logo="" group-title="SCAN",SCAN A08X
 http://138.59.227.20:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08Y" tvg-logo="" group-title="SCAN",SCAN A08Y
+#EXTINF:-1 tvg-name="INFANTIL" tvg-logo="" group-title="SCAN",SCAN A08Y
 http://138.59.227.20:8000/play/a08y/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08Z" tvg-logo="" group-title="SCAN",SCAN A08Z
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title="SCAN",SCAN A08Z
 http://138.59.227.20:8000/play/a08z/index.m3u8
-
-#EXTINF:-1 tvg-name="SCAN A09A" tvg-logo="" group-title="SCAN",SCAN A09A
+#EXTINF:-1 tvg-name="CANAL E!" tvg-logo="" group-title="SCAN"
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="SCAN",SCAN A09A
 http://138.59.227.20:8000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09B" tvg-logo="" group-title="SCAN",SCAN A09B
+#EXTINF:-1 tvg-name="FOX SPORT 2" tvg-logo="" group-title="SCAN",SCAN A09B
 http://138.59.227.20:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09C" tvg-logo="" group-title="SCAN",SCAN A09C
+#EXTINF:-1 tvg-name="SONY" tvg-logo="" group-title="SCAN",SCAN A09C
 http://138.59.227.20:8000/play/a09c/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09D" tvg-logo="" group-title="SCAN",SCAN A09D
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="" group-title="SCAN",SCAN A09D
 http://138.59.227.20:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09E" tvg-logo="" group-title="SCAN",SCAN A09E
+#EXTINF:-1 tvg-name="AXN" tvg-logo="" group-title="SCAN",SCAN A09E
 http://138.59.227.20:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09F" tvg-logo="" group-title="SCAN",SCAN A09F
+#EXTINF:-1 tvg-name="NAT GEO" tvg-logo="" group-title="SCAN",SCAN A09F
 http://138.59.227.20:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09G" tvg-logo="" group-title="SCAN",SCAN A09G
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="" group-title="SCAN",SCAN A09G
 http://138.59.227.20:8000/play/a09g/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09H" tvg-logo="" group-title="SCAN",SCAN A09H
+#EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="SCAN",SCAN A09H
 http://138.59.227.20:8000/play/a09h/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09I" tvg-logo="" group-title="SCAN",SCAN A09I
+#EXTINF:-1 tvg-name="UNIVERSAL" tvg-logo="" group-title="SCAN",SCAN A09I
 http://138.59.227.20:8000/play/a09i/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A09J" tvg-logo="" group-title="SCAN",SCAN A09J
+#EXTINF:-1 tvg-name="SONY MOVIES" tvg-logo="" group-title="SCAN",SCAN A09J
 http://138.59.227.20:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A09K" tvg-logo="" group-title="SCAN",SCAN A09K
 http://138.59.227.20:8000/play/a09k/index.m3u8
