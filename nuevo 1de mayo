@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ar.xml"
 
 IPTV 138.59.227.20
@@ -131,246 +132,321 @@ http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A24" tvg-logo="" group-title="SCAN",A05U
 http://138.59.227.20:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05V" tvg-logo="" group-title="SCAN",A05V
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="" group-title="SCAN",A05V
 http://138.59.227.20:8000/play/a05v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05W" tvg-logo="" group-title="SCAN",A05W
+#EXTINF:-1 tvg-id="" tvg-name="CRONICA" tvg-logo="" group-title="SCAN",A05W
 http://138.59.227.20:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05X" tvg-logo="" group-title="SCAN",A05X
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26" tvg-logo="" group-title="SCAN",A05X
 http://138.59.227.20:8000/play/a05x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A05Y" tvg-logo="" group-title="SCAN",A05Y
+#EXTINF:-1 tvg-id="" tvg-name="LA NACION +" tvg-logo="" group-title="SCAN",A05Y
 http://138.59.227.20:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A05Z" tvg-logo="" group-title="SCAN",A05Z
 http://138.59.227.20:8000/play/a05z/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="A06D" tvg-logo="" group-title="SCAN",A06D
+#EXTINF:-1 tvg-id="" tvg-name="CANAL A" tvg-logo="" group-title="SCAN",A06D
 http://138.59.227.20:8000/play/a06d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A06E" tvg-logo="" group-title="SCAN",A06E
 http://138.59.227.20:8000/play/a06e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06F" tvg-logo="" group-title="SCAN",A06F
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUMDI" tvg-logo="" group-title="SCAN",A06F
 http://138.59.227.20:8000/play/a06f/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06G" tvg-logo="" group-title="SCAN",A06G
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="SCAN",A06G
 http://138.59.227.20:8000/play/a06g/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06H" tvg-logo="" group-title="SCAN",A06H
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="SCAN",A06H
 http://138.59.227.20:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A06I" tvg-logo="" group-title="SCAN",A06I
 http://138.59.227.20:8000/play/a06i/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06J" tvg-logo="" group-title="SCAN",A06J
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="SCAN",A06J
 http://138.59.227.20:8000/play/a06j/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06K" tvg-logo="" group-title="SCAN",A06K
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="" group-title="SCAN",A06K
 http://138.59.227.20:8000/play/a06k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06L" tvg-logo="" group-title="SCAN",A06L
+#EXTINF:-1 tvg-id="" tvg-name="METRO" tvg-logo="" group-title="SCAN",A06L
 http://138.59.227.20:8000/play/a06l/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06M" tvg-logo="" group-title="SCAN",A06M
+#EXTINF:-1 tvg-id="" tvg-name="CIUDAD MAGAZINE" tvg-logo="" group-title="SCAN",A06M
 http://138.59.227.20:8000/play/a06m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06N" tvg-logo="" group-title="SCAN",A06N
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="" group-title="SCAN",A06N
 http://138.59.227.20:8000/play/a06n/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06O" tvg-logo="" group-title="SCAN",A06O
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="SCAN",A06O
 http://138.59.227.20:8000/play/a06o/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06P" tvg-logo="" group-title="SCAN",A06P
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCI" tvg-logo="" group-title="SCAN",A06P
 http://138.59.227.20:8000/play/a06p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="A06Q" tvg-logo="" group-title="SCAN",A06Q
 http://138.59.227.20:8000/play/a06q/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06R" tvg-logo="" group-title="SCAN",A06R
+#EXTINF:-1 tvg-id="" tvg-name="MT" tvg-logo="" group-title="SCAN",A06R
 http://138.59.227.20:8000/play/a06r/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06S" tvg-logo="" group-title="SCAN",A06S
+#EXTINF:-1 tvg-id="" tvg-name="Q MUSICA" tvg-logo="" group-title="SCAN",A06S
 http://138.59.227.20:8000/play/a06s/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06T" tvg-logo="" group-title="SCAN",A06T
+#EXTINF:-1 tvg-id="" tvg-name="HTV
+" tvg-logo="" group-title="SCAN",A06T
 http://138.59.227.20:8000/play/a06t/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06U" tvg-logo="" group-title="SCAN",A06U
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA" tvg-logo="" group-title="SCAN",A06U
 http://138.59.227.20:8000/play/a06u/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06V" tvg-logo="" group-title="SCAN",A06V
+#EXTINF:-1 tvg-id="" tvg-name="GALICIA TV" tvg-logo="" group-title="SCAN",A06V
 http://138.59.227.20:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06W" tvg-logo="" group-title="SCAN",A06W
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="SCAN",A06W
 http://138.59.227.20:8000/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06X" tvg-logo="" group-title="SCAN",A06X
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORT" tvg-logo="" group-title="SCAN",A06X
 http://138.59.227.20:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06Y" tvg-logo="" group-title="SCAN",A06Y
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3" tvg-logo="" group-title="SCAN",A06Y
 http://138.59.227.20:8000/play/a06y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="A06Z" tvg-logo="" group-title="SCAN",A06Z
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT PREMIUN" tvg-logo="" group-title="SCAN",A06Z
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07A" tvg-logo="" group-title="SCAN",SCAN A07A
 http://138.59.227.20:8000/play/a07a/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07B" tvg-logo="" group-title="SCAN",SCAN A07B
+
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE" tvg-logo="" group-title="SCAN",SCAN A07B
 http://138.59.227.20:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07C" tvg-logo="" group-title="SCAN",SCAN A07C
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CIUDAD" tvg-logo="" group-title="SCAN",SCAN A07C
 http://138.59.227.20:8000/play/a07c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07D" tvg-logo="" group-title="SCAN",SCAN A07D
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RT" tvg-logo="" group-title="SCAN",SCAN A07D
 http://138.59.227.20:8000/play/a07d/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07E" tvg-logo="" group-title="SCAN",SCAN A07E
 http://138.59.227.20:8000/play/a07e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07F" tvg-logo="" group-title="SCAN",SCAN A07F
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL NN" tvg-logo="" group-title="SCAN",SCAN A07F
 http://138.59.227.20:8000/play/a07f/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07G" tvg-logo="" group-title="SCAN",SCAN A07G
 http://138.59.227.20:8000/play/a07g/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07H" tvg-logo="" group-title="SCAN",SCAN A07H
 http://138.59.227.20:8000/play/a07h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07I" tvg-logo="" group-title="SCAN",SCAN A07I
 http://138.59.227.20:8000/play/a07i/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07J" tvg-logo="" group-title="SCAN",SCAN A07J
 http://138.59.227.20:8000/play/a07j/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07K" tvg-logo="" group-title="SCAN",SCAN A07K
 http://138.59.227.20:8000/play/a07k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07L" tvg-logo="" group-title="SCAN",SCAN A07L
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="" group-title="SCAN",SCAN A07L
 http://138.59.227.20:8000/play/a07l/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07M" tvg-logo="" group-title="SCAN",SCAN A07M
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="SCAN",SCAN A07M
 http://138.59.227.20:8000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07N" tvg-logo="" group-title="SCAN",SCAN A07N
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO +" tvg-logo="" group-title="SCAN",SCAN A07N
 http://138.59.227.20:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07O" tvg-logo="" group-title="SCAN",SCAN A07O
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="SCAN",SCAN A07O
 http://138.59.227.20:8000/play/a07o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07P" tvg-logo="" group-title="SCAN",SCAN A07P
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="SCAN",SCAN A07P
 http://138.59.227.20:8000/play/a07p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07Q" tvg-logo="" group-title="SCAN",SCAN A07Q
 http://138.59.227.20:8000/play/a07q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07R" tvg-logo="" group-title="SCAN",SCAN A07R
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="SCAN",SCAN A07R
 http://138.59.227.20:8000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07S" tvg-logo="" group-title="SCAN",SCAN A07S
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="SCAN",SCAN A07S
 http://138.59.227.20:8000/play/a07s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07T" tvg-logo="" group-title="SCAN",SCAN A07T
+
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="" group-title="SCAN",SCAN A07T
 http://138.59.227.20:8000/play/a07t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07U" tvg-logo="" group-title="SCAN",SCAN A07U
+
+#EXTINF:-1 tvg-id="" tvg-name="GOURMET" tvg-logo="" group-title="SCAN",SCAN A07U
 http://138.59.227.20:8000/play/a07u/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07V" tvg-logo="" group-title="SCAN",SCAN A07V
 http://138.59.227.20:8000/play/a07v/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07W" tvg-logo="" group-title="SCAN",SCAN A07W
 http://138.59.227.20:8000/play/a07w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07X" tvg-logo="" group-title="SCAN",SCAN A07X
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DE LAS ESTRELLAS" tvg-logo="" group-title="SCAN",SCAN A07X
 http://138.59.227.20:8000/play/a07x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCAN A07Y" tvg-logo="" group-title="SCAN",SCAN A07Y
+
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS" tvg-logo="" group-title="SCAN",SCAN A07Y
 http://138.59.227.20:8000/play/a07y/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SCAN A07Z" tvg-logo="" group-title="SCAN",SCAN A07Z
 http://138.59.227.20:8000/play/a07z/index.m3u8
 
-#EXTINF:-1 tvg-name="SCAN A08A" tvg-logo="" group-title="SCAN",SCAN A08A
+#EXTINF:-1 tvg-name="TELEFE HD" tvg-logo="" group-title="SCAN",SCAN A08A
 http://138.59.227.20:8000/play/a08a/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08B" tvg-logo="" group-title="SCAN",SCAN A08B
+
+#EXTINF:-1 tvg-name="TNT" tvg-logo="" group-title="SCAN",SCAN A08B
 http://138.59.227.20:8000/play/a08b/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08C" tvg-logo="" group-title="SCAN",SCAN A08C
+
+#EXTINF:-1 tvg-name="TNT SERIES" tvg-logo="" group-title="SCAN",SCAN A08C
 http://138.59.227.20:8000/play/a08c/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08D" tvg-logo="" group-title="SCAN",SCAN A08D
+
+#EXTINF:-1 tvg-name="ADULT SWIM" tvg-logo="" group-title="SCAN",SCAN A08D
 http://138.59.227.20:8000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08E" tvg-logo="" group-title="SCAN",SCAN A08E
+
+#EXTINF:-1 tvg-name="TNT NOVELAS" tvg-logo="" group-title="SCAN",SCAN A08E
 http://138.59.227.20:8000/play/a08e/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08F" tvg-logo="" group-title="SCAN",SCAN A08F
+
+#EXTINF:-1 tvg-name="DISCOVERY H&H" tvg-logo="" group-title="SCAN",SCAN A08F
 http://138.59.227.20:8000/play/a08f/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08G" tvg-logo="" group-title="SCAN",SCAN A08G
+
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="" group-title="SCAN",SCAN A08G
 http://138.59.227.20:8000/play/a08g/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08H" tvg-logo="" group-title="SCAN",SCAN A08H
 http://138.59.227.20:8000/play/a08h/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08I" tvg-logo="" group-title="SCAN",SCAN A08I
 http://138.59.227.20:8000/play/a08i/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08J" tvg-logo="" group-title="SCAN",SCAN A08J
 http://138.59.227.20:8000/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-name="EL NUEVE" tvg-logo="" group-title="SCAN",SCAN A08K
 http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-name="SCAN A08L" tvg-logo="" group-title="SCAN",SCAN A08L
 http://138.59.227.20:8000/play/a08l/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08M" tvg-logo="" group-title="SCAN",SCAN A08M
 http://138.59.227.20:8000/play/a08m/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08N" tvg-logo="" group-title="SCAN",SCAN A08N
 http://138.59.227.20:8000/play/a08n/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08O" tvg-logo="" group-title="SCAN",SCAN A08O
 http://138.59.227.20:8000/play/a08o/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08P" tvg-logo="" group-title="SCAN",SCAN A08P
 http://138.59.227.20:8000/play/a08p/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08Q" tvg-logo="" group-title="SCAN",SCAN A08Q
 http://138.59.227.20:8000/play/a08q/index.m3u8
-#EXTINF:-1 tvg-name="SCAN A08R" tvg-logo="" group-title="SCAN",SCAN A08R
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="SCAN",SCAN A08R
 http://138.59.227.20:8000/play/a08r/index.m3u8
+
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="SCAN",SCAN A08S
 http://138.59.227.20:8000/play/a08s/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08T" tvg-logo="" group-title="SCAN",SCAN A08T
 http://138.59.227.20:8000/play/a08t/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08U" tvg-logo="" group-title="SCAN",SCAN A08U
 http://138.59.227.20:8000/play/a08u/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08V" tvg-logo="" group-title="SCAN",SCAN A08V
 http://138.59.227.20:8000/play/a08v/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A08W" tvg-logo="" group-title="SCAN",SCAN A08W
 http://138.59.227.20:8000/play/a08w/index.m3u8
+
 #EXTINF:-1 tvg-name="INFANTIL" tvg-logo="" group-title="SCAN",SCAN A08X
 http://138.59.227.20:8000/play/a08x/index.m3u8
-#EXTINF:-1 tvg-name="INFANTIL" tvg-logo="" group-title="SCAN",SCAN A08Y
+
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title="SCAN",SCAN A08Y
 http://138.59.227.20:8000/play/a08y/index.m3u8
-#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="" group-title="SCAN",SCAN A08Z
+
+#EXTINF:-1 tvg-name="CANAL E!" tvg-logo="" group-title="SCAN",SCAN A08Z
 http://138.59.227.20:8000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-name="CANAL E!" tvg-logo="" group-title="SCAN"
+
 #EXTINF:-1 tvg-name="ESPN 3" tvg-logo="" group-title="SCAN",SCAN A09A
 http://138.59.227.20:8000/play/a09a/index.m3u8
+
 #EXTINF:-1 tvg-name="FOX SPORT 2" tvg-logo="" group-title="SCAN",SCAN A09B
 http://138.59.227.20:8000/play/a09b/index.m3u8
+
 #EXTINF:-1 tvg-name="SONY" tvg-logo="" group-title="SCAN",SCAN A09C
 http://138.59.227.20:8000/play/a09c/index.m3u8
+
 #EXTINF:-1 tvg-name="WARNER TV" tvg-logo="" group-title="SCAN",SCAN A09D
 http://138.59.227.20:8000/play/a09d/index.m3u8
+
 #EXTINF:-1 tvg-name="AXN" tvg-logo="" group-title="SCAN",SCAN A09E
 http://138.59.227.20:8000/play/a09e/index.m3u8
+
 #EXTINF:-1 tvg-name="NAT GEO" tvg-logo="" group-title="SCAN",SCAN A09F
 http://138.59.227.20:8000/play/a09f/index.m3u8
+
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="" group-title="SCAN",SCAN A09G
 http://138.59.227.20:8000/play/a09g/index.m3u8
+
 #EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="SCAN",SCAN A09H
 http://138.59.227.20:8000/play/a09h/index.m3u8
+
 #EXTINF:-1 tvg-name="UNIVERSAL" tvg-logo="" group-title="SCAN",SCAN A09I
 http://138.59.227.20:8000/play/a09i/index.m3u8
+
 #EXTINF:-1 tvg-name="SONY MOVIES" tvg-logo="" group-title="SCAN",SCAN A09J
 http://138.59.227.20:8000/play/a09j/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09K" tvg-logo="" group-title="SCAN",SCAN A09K
 http://138.59.227.20:8000/play/a09k/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09L" tvg-logo="" group-title="SCAN",SCAN A09L
 http://138.59.227.20:8000/play/a09l/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09M" tvg-logo="" group-title="SCAN",SCAN A09M
 http://138.59.227.20:8000/play/a09m/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09N" tvg-logo="" group-title="SCAN",SCAN A09N
 http://138.59.227.20:8000/play/a09n/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09O" tvg-logo="" group-title="SCAN",SCAN A09O
 http://138.59.227.20:8000/play/a09o/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09P" tvg-logo="" group-title="SCAN",SCAN A09P
 http://138.59.227.20:8000/play/a09p/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09Q" tvg-logo="" group-title="SCAN",SCAN A09Q
 http://138.59.227.20:8000/play/a09q/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09R" tvg-logo="" group-title="SCAN",SCAN A09R
 http://138.59.227.20:8000/play/a09r/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09S" tvg-logo="" group-title="SCAN",SCAN A09S
 http://138.59.227.20:8000/play/a09s/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09T" tvg-logo="" group-title="SCAN",SCAN A09T
 http://138.59.227.20:8000/play/a09t/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09U" tvg-logo="" group-title="SCAN",SCAN A09U
 http://138.59.227.20:8000/play/a09u/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09V" tvg-logo="" group-title="SCAN",SCAN A09V
 http://138.59.227.20:8000/play/a09v/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09W" tvg-logo="" group-title="SCAN",SCAN A09W
 http://138.59.227.20:8000/play/a09w/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09X" tvg-logo="" group-title="SCAN",SCAN A09X
 http://138.59.227.20:8000/play/a09x/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09Y" tvg-logo="" group-title="SCAN",SCAN A09Y
 http://138.59.227.20:8000/play/a09y/index.m3u8
+
 #EXTINF:-1 tvg-name="SCAN A09Z" tvg-logo="" group-title="SCAN",SCAN A09Z
 http://138.59.227.20:8000/play/a09z/index.m3u8
