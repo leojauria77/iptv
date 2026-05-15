@@ -130,11 +130,11 @@ http://45.5.151.62:8000/play/a02y/index.m3u8?hls
 #EXTINF:-1,a02z
 http://45.5.151.62:8000/play/a02z/index.m3u8?hls
 
-http://45.5.151.62:8000/play/a01/index.m3u8?hls
+http://45.5.151.62:8000/play/a00a/index.m3u8?hls
 #EXTINF:-1,a05t
-http://45.5.151.62:8000/play/a02/index.m3u8?hls
+http://45.5.151.62:8000/play/a00b/index.m3u8?hls
 #EXTINF:-1,a05u
-http://45.5.151.62:8000/play/a03/index.m3u8?hls
+http://45.5.151.62:8000/play/a00c/index.m3u8?hls
 #EXTINF:-1,a05v
 http://45.5.151.62:8000/play/a04/index.m3u8?hls
 #EXTINF:-1,a05w
