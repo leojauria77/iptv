@@ -17,3 +17,6 @@ http://138.186.20.22:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="https://i.imgur.com/3PPyIjE.jpeg" group-title="TV",TV PÚBLICA 
 http://45.5.149.220:8000/play/a03g/index.m3u8
+
+EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/5c0Evk2.png" group-title="TV", PASIONES 
+http://190.117.20.37:8000/play/a0gx/index.m3u8
