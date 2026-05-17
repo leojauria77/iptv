@@ -108,8 +108,8 @@ http://181.209.105.115:2525/play/foxsports/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="PLIM PLIM TV" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",PLIM PLIM TV
 http://38.210.105.10:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DREAMWORKS" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",DREAMWORKs 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DREAMWORKS" tvg-logo="https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",DREAMWORKs 
 http://168.232.168.242:9999/play/a08n/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",DSPORTS 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/hmuMgyW.png" group-title="TV",DSPORTS 
 http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
