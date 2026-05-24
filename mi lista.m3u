@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium1
-http://45.5.151.147:8000/play/a00m/index.m3u8?hls
+https://pvtn5y.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=13c50e60789f9af1a11741626abad8de60a0bb6f-5a-1779686912-1779632912&ip=190.136.232.112
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium
 http://45.5.151.62:8000/play/a02p/index.m3u8
