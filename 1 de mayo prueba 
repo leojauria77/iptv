@@ -1,50 +1,10 @@
 
-#EXTM3U
-
-#EXTINF:-1,SERVER 138.59.227.15
-http://138.59.227.15:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.16
-http://138.59.227.16:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.17
-http://138.59.227.17:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.18
-http://138.59.227.18:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.19
-http://138.59.227.19:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.20
-http://138.59.227.20:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.21
-http://138.59.227.21:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.22
-http://138.59.227.22:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.23
-http://138.59.227.23:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.24
-http://138.59.227.24:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.25
-http://138.59.227.25:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.26
-http://138.59.227.26:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.27
-http://138.59.227.27:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.28
-http://138.59.227.28:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.29
-http://138.59.227.29:8000/playlist.m3u8
-
-#EXTINF:-1,SERVER 138.59.227.30
-http://138.59.227.30:8000/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive.stream_headers=User-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://web.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://web.app.flow.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#EXTINF:-1 tvg-id="TN.ar" tvg-rec="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="NOTICIAS", TN NOTICIAS
+https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
