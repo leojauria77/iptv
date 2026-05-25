@@ -1,6 +1,79 @@
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium1
-https://m.org/hotflix/espnpremium/index.m3u8?token=13c50e60789f9af1a11741626abad8de60a0bb6f-5a-1779686912-1779632912&ip=
+#EXTM3U
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium LEO⭐⭐⭐
-http://138.59.227./play/a06z/index.m3u8
+#EXTINF:-1,canal a02a
+http://186.33.1.71:8000/play/a02a/index.m3u8
 
+#EXTINF:-1,canal a02b
+http://186.33.1.71:8000/play/a02b/index.m3u8
+
+#EXTINF:-1,canal a02c
+http://186.33.1.71:8000/play/a02c/index.m3u8
+
+#EXTINF:-1,canal a02d
+http://186.33.1.71:8000/play/a02d/index.m3u8
+
+#EXTINF:-1,canal a02e
+http://186.33.1.71:8000/play/a02e/index.m3u8
+
+#EXTINF:-1,canal a02f
+http://186.33.1.71:8000/play/a02f/index.m3u8
+
+#EXTINF:-1,canal a02g
+http://186.33.1.71:8000/play/a02g/index.m3u8
+
+#EXTINF:-1,canal a02h
+http://186.33.1.71:8000/play/a02h/index.m3u8
+
+#EXTINF:-1,canal a02i
+http://186.33.1.71:8000/play/a02i/index.m3u8
+
+#EXTINF:-1,canal a02j
+http://186.33.1.71:8000/play/a02j/index.m3u8
+
+#EXTINF:-1,canal a02k
+http://186.33.1.71:8000/play/a02k/index.m3u8
+
+#EXTINF:-1,canal a02l
+http://186.33.1.71:8000/play/a02l/index.m3u8
+
+#EXTINF:-1,canal a02m
+http://186.33.1.71:8000/play/a02m/index.m3u8
+
+#EXTINF:-1,canal a02n
+http://186.33.1.71:8000/play/a02n/index.m3u8
+
+#EXTINF:-1,canal a02o
+http://186.33.1.71:8000/play/a02o/index.m3u8
+
+#EXTINF:-1,canal a02p
+http://186.33.1.71:8000/play/a02p/index.m3u8
+
+#EXTINF:-1,canal a02q
+http://186.33.1.71:8000/play/a02q/index.m3u8
+
+#EXTINF:-1,canal a02r
+http://186.33.1.71:8000/play/a02r/index.m3u8
+
+#EXTINF:-1,canal a02s
+http://186.33.1.71:8000/play/a02s/index.m3u8
+
+#EXTINF:-1,canal a02t
+http://186.33.1.71:8000/play/a02t/index.m3u8
+
+#EXTINF:-1,canal a02u
+http://186.33.1.71:8000/play/a02u/index.m3u8
+
+#EXTINF:-1,canal a02v
+http://186.33.1.71:8000/play/a02v/index.m3u8
+
+#EXTINF:-1,canal a02w
+http://186.33.1.71:8000/play/a02w/index.m3u8
+
+#EXTINF:-1,canal a02x
+http://186.33.1.71:8000/play/a02x/index.m3u8
+
+#EXTINF:-1,canal a02y
+http://186.33.1.71:8000/play/a02y/index.m3u8
+
+#EXTINF:-1,canal a02z
+http://186.33.1.71:8000/play/a02z/index.m3u8
