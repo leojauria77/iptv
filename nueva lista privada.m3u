@@ -26,3 +26,6 @@ http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 
 #EXTINF:-1 tvg-name="PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV
 http://186.33.1.71:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-name="VENUS" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+http://186.33.1.71:8000/play/a02u/index.m3u8
