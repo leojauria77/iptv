@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
-http://cablemaxsigloxxi.com:8000/play/a06x/92871819.m3u8
+http://cablemaxsigloxxi.com:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
 http://45.5.149.220:8000/play/a05b/index.m3u8
