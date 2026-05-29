@@ -16,6 +16,9 @@ http://45.5.149.220:8000/play/a057/index.m3u8
 http://45.5.149.220:8000/play/a03g/index.m3u8
 
 EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/5c0Evk2.png" group-title="TV", PASIONES 
+http://cablemaxsigloxxi.com:8000/play/a0st/index.m3u8
+
+EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/5c0Evk2.png" group-title="TV", PASIONES 
 http://190.117.20.37:8000/play/a0gx/index.m3u8
 
 EXTINF:-1 tvg-name="PASIONES" tvg-logo="https://i.imgur.com/5c0Evk2.png" group-title="TV", PASIONES 
