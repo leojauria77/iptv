@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
-http://170.244.209.30:8000/play/a1fe/index.m3u8
-
-#EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
 http://45.5.149.220:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-name="RCN NOVELAS" tvg-logo="https://i.imgur.com/y3H8Fng.png" group-title="TV", RCN NOVELAS
