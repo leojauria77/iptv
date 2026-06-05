@@ -46,7 +46,7 @@ http://45.5.151.147:8000/play/a00e/index.m3u8
 http://45.5.151.147:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV Backup" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV Backup
-http://45.5.151.147:8000/play/a00c/index.m3u8
+http://138.59.227.20:8000/play/a094/index.m3u8
 
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2" tvg-logo="https://i.imgur.com/sSn9wmg.png" group-title="TV",History 2
 http://45.5.151.147:8000/play/a03k/index.m3u8
