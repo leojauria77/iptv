@@ -117,5 +117,5 @@ http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8?hls
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
 http://138.59.227.20:8000/play/a0ft/index.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS +
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
