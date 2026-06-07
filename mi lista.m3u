@@ -7,7 +7,7 @@ https://pvtn5y.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=13c50e60789
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="https://i.imgur.com/V8LWHRx.png" group-title="TV",History
-http://45.5.149.220:8000/play/a05r/index.m3u8
+http://138.59.227.20:8000/play/a090/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/vYYd8aE.png" group-title="TV",Discovery Channel
 http://190.7.19.197:232/play/a065/index.m3u8
