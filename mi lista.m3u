@@ -124,3 +124,6 @@ http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
 http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8?hls
 
 #EXTM3U #EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:4229 #EXT-X-ALLOW-CACHE:YES #EXT-X-TARGETDURATION:12 #EXTINF:10.110367, http://185.243.7.58:80/hls/5942137309d0b4945e8a9ae6d820812a/265016_4229.ts #EXTINF:11.345367, http://185.243.7.58:80/hls/84a7193ad0914a16f410ad37f34a6356/265016_4230.ts #EXTINF:10.544367, http://185.243.7.58:80/hls/577be4869383f48bd087f893b09485c4/265016_4231.ts #EXTINF:8.174367, http://185.243.7.58:80/hls/50deb30faf054fa69e8ff328a5c16ad0/265016_4232.ts #EXTINF:10.143367, http://185.243.7.58:80/hls/97438cb03634539d1b55829fdf12edbd/265016_4233.ts #EXTINF:9.943367, http://185.243.7.58:80/hls/6f10c78ee5cfdf4bd32121d5d1e86822/265016_4234.ts
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
+http://190.117.20.37:8000/play/a08d/index.m3u8
