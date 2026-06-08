@@ -130,3 +130,6 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DINOS 24/7" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV", DINOSAURIOS 24/7
 http://148.222.231.110:8087/play/a11z/index.m3u8
+
+#EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="https://i.imgur.com/V8LWHRx.png" group-title="TV",History
+http://148.222.231.110:8087/play/a0dn/index.m3u8
