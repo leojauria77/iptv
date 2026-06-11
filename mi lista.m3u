@@ -121,7 +121,7 @@ http://138.59.227.20:8000/play/a0ft/index.m3u8
 http://cablemaxsigloxxi.com:8000/play/a011/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT 2" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 2
-http://cablemaxsigloxxi.com:8000/play/a066/index.m3u8?hls
+http://190.61.41.181:8000/play/a0r4/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
 http://190.117.20.37:8000/play/a08d/index.m3u8
