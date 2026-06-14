@@ -31,7 +31,7 @@ http://45.5.149.220:8000/play/a03n/index.m3u8
 http://24.152.42.29:8000/play/a023/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium 2" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 2
-http://181.13.252.102:8000/play/a078/index.m3u8
+http://45.188.229.33:8000/play/a1di/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium 3" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 3
 http://200.4.195.66:8000/play/a00f/index.m3u8
