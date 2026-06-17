@@ -136,7 +136,7 @@ http://148.222.231.110:8087/play/a0dn/index.m3u8
 http://148.222.231.110:8087/play/a12m/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 6" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 6
-http://181.13.252.102:8000/play/a06c/index.m3u8/index.m3u8
+http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT 2" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 2
 http://190.7.19.197:232/play/a09h/index.m3u8
