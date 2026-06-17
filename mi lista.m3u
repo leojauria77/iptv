@@ -73,7 +73,7 @@ http://45.5.151.62:8000/play/a02o/index.m3u8
 http://138.59.227.20:8000/play/a066/index.m3u8
 
 #EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
-http://181.13.252.102:8000/play/a02s/index.m3u8
+http://138.59.227.20:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO MAX" tvg-logo=https://i.imgur.com/QJe2Al9.png" group-title="TV",HBO MAX
 http://170.244.209.30:8000/play/a161/index.m3u8
