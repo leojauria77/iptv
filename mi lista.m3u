@@ -72,7 +72,7 @@ http://190.7.19.197:232/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="VOLVER" tvg-name="VOLVER" tvg-logo="https://i.imgur.com/tGgjxRn.jpeg" group-title="TV",VOLVER 
 http://138.59.227.20:8000/play/a066/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 3
 http://138.59.227.20:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO MAX" tvg-logo=https://i.imgur.com/QJe2Al9.png" group-title="TV",HBO MAX
@@ -156,10 +156,10 @@ https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="5tv.ar@SD" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General",5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT 2" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 2
 http://200.4.195.66:8000/play/a007/index.m3u8
 
-#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT 1" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 1
 http://177.53.153.207:8000/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO MUNDIAL" tvg-logo="https://i.imgur.com/qfIh7hA.jpeg" group-title="FUTBOL", TELEMUNDO MUNDIAL
