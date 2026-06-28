@@ -29,3 +29,6 @@ http://190.117.20.37:8000/play/a0gx/index.m3u8
 
 EXTINF:-1 tvg-name="PASIONES 3" tvg-logo="https://i.imgur.com/5c0Evk2.png" group-title="TV", PASIONES 3
 http://38.44.109.41:8003/play/a0ia/index.m3u8
+
+#EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="https://i.imgur.com/3PPyIjE.jpeg" group-title="TV",TV PÚBLICA 
+http://191.97.63.231:2053/play/a1ac/index.m3u8
