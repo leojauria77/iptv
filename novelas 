@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
-http://138.59.227.20:8000/play/a07x/index.m3u8
+http://190.7.19.197:232/play/a05o/index.m3u8
 
 #EXTINF:-1 tvg-name="ESTRELLAS" tvg-logo="https://i.imgur.com/1kYiYwK.png" group-title="TV", ESTRELLAS
 http://138.59.227.20:8000/play/a07x/index.m3u8
