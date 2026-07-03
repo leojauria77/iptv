@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
+98#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium 1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 1
 https://pvtn5y.envivoslatam.org/hotflix/espnpremium/index.m3u8?token=13c50e60789f9af1a11741626abad8de60a0bb6f-5a-1779686912-1779632912&ip=190.136.232.112
@@ -164,3 +164,6 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-name="TELEMUNDO MUNDIAL" tvg-logo="https://i.imgur.com/qfIh7hA.jpeg" group-title="FUTBOL", TELEMUNDO MUNDIAL
 http://186.33.7.209:8010/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT 3" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 3
+http://38.44.109.41:8003/play/a02l/index.m3u8
