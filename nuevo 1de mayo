@@ -170,3 +170,6 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV 4" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV 4
 http://138.59.227.20:8000/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC SPORTS" tvg-name="TyC SPORT 5" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 5
+http://138.59.227.20:8000/play/a06x/index.m3u8
