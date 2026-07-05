@@ -194,3 +194,7 @@ http://starlatino.tv:8880/live/56930686460tch/LBVAqMTBxmSm/526461.m3u8
 #EXTM3U
 #EXTINF:-1,WINNI POOH
 http://starlatino.tv:8880/live/56930686460tch/LBVAqMTBxmSm/526576.m3u8
+
+#EXTM3U
+#EXTINF:-1,GRAN HERMANO 
+http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/412404.ts
