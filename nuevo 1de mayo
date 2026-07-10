@@ -201,3 +201,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=294a3a
 
 #EXTINF:-1 tvg-id="disney+" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Disney+
 https://mivra.vivolatamz.org/disney1/tracks-v1a1/mono.m3u8?ip=190.230.54.38&token=01d1a6061151d0cac904d8ffe3c5d50c844d0e55-4c-1783600362-1783546362
+
+#EXTM3U
+#EXTINF:-1,GRAN HERMANO 3
+http://play-tv.biz:80/get.php?username=12345678&password=87654321&type=m3u_plus
