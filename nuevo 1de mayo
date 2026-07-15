@@ -112,7 +112,7 @@ http://38.210.105.10:8000/play/a0ga/index.m3u8
 http://168.232.168.242:9999/play/a08n/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
-http://190.61.41.181:8000/play/a0r5/index.m3u8
+http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0h6/index.m3u8?device_id=294a3a20cef0
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
 http://138.59.227.20:8000/play/a0ft/index.m3u8
