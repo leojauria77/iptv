@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml"
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium Disney+
 http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/369708.ts
