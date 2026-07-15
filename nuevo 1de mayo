@@ -204,7 +204,7 @@ https://mivra.vivolatamz.org/disney1/tracks-v1a1/mono.m3u8?ip=190.230.54.38&toke
 
 #EXTM3U
 #EXTINF:-1,GRAN HERMANO 3
-http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/454926.ts
+http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=1a0dcd252df8
 
 #EXTINF:-1 tvg-id="disney+" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn Disney+
 http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dr/index.m3u8?device_id=294a3a20cef0
