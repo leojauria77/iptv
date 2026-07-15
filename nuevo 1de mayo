@@ -84,7 +84,7 @@ http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="https://i.imgur.com/3PPyIjE.jpeg" group-title="TV",TV PÚBLICA 
 http://138.59.227.20:8000/play/a095/index.m3u8
 
-#EXTINF:-1 tvg-id="QUIERO MUSICA" tvg-name="QUIERO MUSICA" tvg-logo="https://i.imgur.com/y7mTUoH.jpeg" group-title="TV",Quiero Musica
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="QUIERO MUSICA" tvg-logo="https://i.imgur.com/y7mTUoH.jpeg" group-title="TV",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUN" tvg-name="ESPN PREMIUN 5" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 5 LEO⭐⭐⭐
@@ -96,7 +96,7 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 4" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 4 Leo
 http://190.7.19.197:232/play/a059/index.m3u8
 
-#EXTINF:-1 tvg-id="QUIERO MUSICA" tvg-name="QUIERO MUSICA" tvg-logo="https://i.imgur.com/y7mTUoH.jpeg" group-title="TV",Quiero Musica
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="QUIERO MUSICA" tvg-logo="https://i.imgur.com/y7mTUoH.jpeg" group-title="TV",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 5" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 5
