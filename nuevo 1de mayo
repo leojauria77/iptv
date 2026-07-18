@@ -210,7 +210,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=1
 http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dr/index.m3u8?device_id=294a3a20cef0
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT leo" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT leo
-https://djtzg.vivolatamz.org/lb08/tycsports/index.m3u8?token=2bf5e885624f650f28de9095e59227e386cc667a-17-1784294140-1784240140&ip=190.230.54.38
+http://flowzy.work:8080/live/ACXJ59027/novpdc018124/339665.ts
 
 #EXTM3U
 #EXTINF:-1,GRAN HERMANO 4
