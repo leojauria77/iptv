@@ -31,7 +31,7 @@ http://186.33.1.71:8000/play/a02t/index.m3u8
 http://186.33.1.71:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-name="BRAZZER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",BRAZZER TV
-http://200.115.120.1:8000/play/ca98/index.m3u8
+http://flowzy.work:8080/live/ACXJ59027/novpdc018124/537639.ts
 
 EXTINF:-1 tvg-name="BRAZZER TV" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",BRAZZER TV
 http://pirados.org:2096/live/Toni2025/Toni2025/318.ts
