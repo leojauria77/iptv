@@ -214,7 +214,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/Reality/454926/index.m3u8?device_id=1
 http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0dr/index.m3u8?device_id=294a3a20cef0
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT leo" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT leo
-http://oscam281w.ooguy.com:5000/Playlist/finder/Deportes/a0ft/34990818.m3u8
+http://oscam281w.ooguy.com:5000/Playlist/finder/Deportes/a0ft/index.m3u8?device_id=294a3a20cef0
 
 #EXTM3U
 #EXTINF:-1,GRAN HERMANO 4
