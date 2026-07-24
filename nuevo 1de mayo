@@ -203,7 +203,7 @@ http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/412404.ts
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0ft/index.m3u8?device_id=294a3a20cef0
 
-#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Disney+
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn disney+2
 https://khala.skylivehd.com/global/espnpremium/index.m3u8?ip=190.230.134.254&token=e911335641cb0e648c7a6347324dd2b4ece8ad0f-f8-1784970912-1784916912
 
 #EXTM3U
