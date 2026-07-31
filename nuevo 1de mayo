@@ -219,3 +219,6 @@ http://oscam281w.ooguy.com:5000/Playlist/finder/Deportes/a0ft/index.m3u8?device_
 #EXTM3U
 #EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgQbeo.jpeg" group-title="REALITY",GRAN HERMANO 4
 http://flowzy.work:8080/live/ACXJ59027/novpdc018124/584116.ts
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Disney plus
+https://p2.domain761.sbs:443/disney4/index.m3u8?token=f98fdedb9bb2bfa2ca7d7c134c155dda8ce365c6-ec-1785504524-1785450524&ip=181.97.107.44
