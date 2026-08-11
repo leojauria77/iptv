@@ -112,7 +112,7 @@ http://38.210.105.10:8000/play/a0ga/index.m3u8
 http://168.232.168.242:9999/play/a08n/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS juan
-https://9.tvlibre.pe/even6/mono.m3u8?token=2cbd2c7c19a42696497d8b0b3fe2605259d96572-e7-1785476198-1785458198
+https://streamx-hd.com/live2.php?stream=disney1
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
 http://138.59.227.20:8000/play/a0ft/index.m3u8
