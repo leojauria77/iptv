@@ -13,7 +13,7 @@ http://170.244.209.30:8000/play/a130/index.m3u8
 http://190.108.83.69:8000/play/a02p/index.m3u8
 
 #EXTINF:-1 tvg-name="SEXTREME" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",SEXTREME
-http://24.152.42.29:8000/play/a0c2/index.m3u8?hls
+http://190.108.83.69:8000/play/a0cj/index.m3u8
 
 #EXTINF:-1 tvg-name="VENUS" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
 http://24.152.42.29:8000/play/a019/index.m3u8?hls
