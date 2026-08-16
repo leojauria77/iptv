@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="PLAYBOY TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV 1
-http://148.230.149.45:1021/play/a01t/index.m3u8
+http://138.59.227.20:8000/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-name="VENUS 4" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 4
 http://148.230.149.45:1021/play/a01u/index.m3u8
