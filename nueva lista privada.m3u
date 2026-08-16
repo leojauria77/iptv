@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PLAYBOY TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV
+#EXTINF:-1 tvg-name="PLAYBOY TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV 1
 http://148.230.149.45:1021/play/a01t/index.m3u8
 
-#EXTINF:-1 tvg-name="VENUS 4" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS 4" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 4
 http://148.230.149.45:1021/play/a01u/index.m3u8
 
-#EXTINF:-1 tvg-name="SEXTREME" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",SEXTREME
+#EXTINF:-1 tvg-name="SEXTREME 1" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",SEXTREME 1
 http://170.244.209.30:8000/play/a130/index.m3u8
 
-#EXTINF:-1 tvg-name="PLAYBOY TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV
+#EXTINF:-1 tvg-name="PLAYBOY TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV 2
 http://190.108.83.69:8000/play/a02p/index.m3u8
 
-#EXTINF:-1 tvg-name="SEXTREME" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",SEXTREME
+#EXTINF:-1 tvg-name="SEXTREME 2" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",SEXTREME 2
 http://190.108.83.69:8000/play/a0cj/index.m3u8
 
-#EXTINF:-1 tvg-name="VENUS 3" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS 3" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 3
 http://24.152.42.29:8000/play/a019/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="VENUS" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS 4" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 4
 http://200.125.170.120:8000/play/a04e/index.m3u8
 
-#EXTINF:-1 tvg-name="VENUS 2" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS 2" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 2
 http://8.243.126.131:8000/play/a0jy/index.m3u8?hls
 
-#EXTINF:-1 tvg-name="PLAYBOY TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV
+#EXTINF:-1 tvg-name="PLAYBOY TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",PLAYBOY TV 3
 http://186.33.1.71:8000/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-name="VENUS 1" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS
+#EXTINF:-1 tvg-name="VENUS 1" tvg-logo="https://i.imgur.com/e3NwfV8.png" group-title="TV",VENUS 1
 http://190.108.83.69:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-name="BRAZZER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",BRAZZER TV
