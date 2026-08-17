@@ -33,6 +33,6 @@ http://190.108.83.69:8000/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="BRAZZER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Playboy_TV_logo.png" group-title="TV",BRAZZER TV
 http://tvstar.dns.army:2052/live/powersat4/PiccoloVF4/83972.ts
 
-EXTINF:-1 tvg-name="BRAZZER TV" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",BRAZZER TV
-http://pirados.org:2096/live/Toni2025/Toni2025/318.ts
+EXTINF:-1 tvg-name="playboy TV" tvg-logo="https://i.imgur.com/emMJqG8.png" group-title="TV",PLAYBOY TV
+http://tvstar.dns.army:2052/live/powersat4/PiccoloVF4/83998.ts
 
