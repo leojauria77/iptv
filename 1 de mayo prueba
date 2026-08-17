@@ -1,0 +1,599 @@
+#EXTM3U
+#EXTINF:-1 group-title="General",AmericaTV
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV.m3u8
+#EXTINF:-1 group-title="General",Info Mora
+https://cdn.cvattv.com.ar/live/c4eds/Info_Mora/sa_hls_full_e_95AEFABF606F67368D62A486/Info_Mora.m3u8
+#EXTINF:-1 group-title="General",Info Flow
+https://cdn.cvattv.com.ar/live/c7eds/Info_Flow/sa_hls_full_e_95AEFABF606F67368D62A486/Info_Flow.m3u8
+#EXTINF:-1 group-title="General",Metro
+https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_hls_full_e_95AEFABF606F67368D62A486/Metro.m3u8
+#EXTINF:-1 group-title="General",AmericaTV
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/sa_hls_full_e_95AEFABF606F67368D62A486/AmericaTV.m3u8
+#EXTINF:-1 group-title="General",TelefeHD
+https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD.m3u8
+#EXTINF:-1 group-title="General",Canal7
+https://cdn.cvattv.com.ar/live/c6eds/Canal7/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7.m3u8
+#EXTINF:-1 group-title="General",ArtearHD
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/sa_hls_full_e_95AEFABF606F67368D62A486/ArtearHD.m3u8
+#EXTINF:-1 group-title="General",Canal9
+https://cdn.cvattv.com.ar/live/c3eds/Canal9/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9.m3u8
+#EXTINF:-1 group-title="General",TodoNoticias
+https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/sa_hls_full_e_95AEFABF606F67368D62A486/TodoNoticias.m3u8
+#EXTINF:-1 group-title="General",La Nacion
+https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/sa_hls_full_e_95AEFABF606F67368D62A486/La_Nacion.m3u8
+#EXTINF:-1 group-title="General",C5N
+https://cdn.cvattv.com.ar/live/c7eds/C5N/sa_hls_full_e_95AEFABF606F67368D62A486/C5N.m3u8
+#EXTINF:-1 group-title="General",CronicaTV
+https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/sa_hls_full_e_95AEFABF606F67368D62A486/CronicaTV.m3u8
+#EXTINF:-1 group-title="General",26 TV HD
+https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/sa_hls_full_e_95AEFABF606F67368D62A486/26_TV_HD.m3u8
+#EXTINF:-1 group-title="General",America24
+https://cdn.cvattv.com.ar/live/c7eds/America24/sa_hls_full_e_95AEFABF606F67368D62A486/America24.m3u8
+#EXTINF:-1 group-title="General",Magazine
+https://cdn.cvattv.com.ar/live/c3eds/Magazine/sa_hls_full_e_95AEFABF606F67368D62A486/Magazine.m3u8
+#EXTINF:-1 group-title="General",Net TV
+https://cdn.cvattv.com.ar/live/c6eds/Net_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Net_TV.m3u8
+#EXTINF:-1 group-title="General",Encuentro
+https://cdn.cvattv.com.ar/live/c6eds/Encuentro/sa_hls_full_e_95AEFABF606F67368D62A486/Encuentro.m3u8
+#EXTINF:-1 group-title="General",CNN en Espanol
+https://cdn.cvattv.com.ar/live/c6eds/CNN_en_Espanol/sa_hls_full_e_95AEFABF606F67368D62A486/CNN_en_Espanol.m3u8
+#EXTINF:-1 group-title="General",Investigacion Periodistica
+https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/sa_hls_full_e_95AEFABF606F67368D62A486/Investigacion_Periodistica.m3u8
+#EXTINF:-1 group-title="General",BravoTV
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/sa_hls_full_e_95AEFABF606F67368D62A486/BravoTV.m3u8
+#EXTINF:-1 group-title="General",KZO
+https://cdn.cvattv.com.ar/live/c6eds/KZO/sa_hls_full_e_95AEFABF606F67368D62A486/KZO.m3u8
+#EXTINF:-1 group-title="General",Diputados TV
+https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Diputados_TV.m3u8
+#EXTINF:-1 group-title="General",MixTV
+https://cdn.cvattv.com.ar/live/c4eds/MixTV/sa_hls_full_e_95AEFABF606F67368D62A486/MixTV.m3u8
+#EXTINF:-1 group-title="General",Canal 90
+https://cdn.cvattv.com.ar/live/c6eds/Canal_90/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_90.m3u8
+#EXTINF:-1 group-title="DEPORTES",DeporTVHD
+https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/sa_hls_full_e_95AEFABF606F67368D62A486/DeporTVHD.m3u8
+#EXTINF:-1 group-title="DEPORTES",TyCSport
+https://cdn.cvattv.com.ar/live/c7eds/TyCSport/sa_hls_full_e_95AEFABF606F67368D62A486/TyCSport.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2HD
+https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2 Arg
+https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_Arg.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN3
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN3.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPNHD
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/sa_hls_full_e_95AEFABF606F67368D62A486/ESPNHD.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eventos PY
+https://cdn.cvattv.com.ar/live/c3eds/Eventos_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_PY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN PY
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN_PY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN UY
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_UY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN_UY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2 PY
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_PY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN2 UY
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN2_UY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN3 Uy-Py
+https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN3_Uy-Py.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eventos2 PY
+https://cdn.cvattv.com.ar/live/c4eds/Eventos2_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos2_PY.m3u8
+#EXTINF:-1 group-title="DEPORTES",ESPN4
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/sa_hls_full_e_95AEFABF606F67368D62A486/ESPN4.m3u8
+#EXTINF:-1 group-title="DEPORTES",FoxSports3 UY
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3_UY.m3u8
+#EXTINF:-1 group-title="DEPORTES",FoxSports2 UY
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2_UY.m3u8
+#EXTINF:-1 group-title="DEPORTES",FoxSports
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports.m3u8
+#EXTINF:-1 group-title="DEPORTES",FoxSports2HD
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports2HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",FoxSports3HD
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_hls_full_e_95AEFABF606F67368D62A486/FoxSports3HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",NBA TV
+https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/sa_hls_full_e_95AEFABF606F67368D62A486/NBA_TV.m3u8
+#EXTINF:-1 group-title="DEPORTES",El Garage
+https://cdn.cvattv.com.ar/live/c6eds/El_Garage/sa_hls_full_e_95AEFABF606F67368D62A486/El_Garage.m3u8
+#EXTINF:-1 group-title="DEPORTES",Golf Channel
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/sa_hls_full_e_95AEFABF606F67368D62A486/Golf_Channel.m3u8
+#EXTINF:-1 group-title="DEPORTES",DiscoveryTurbo
+https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_hls_full_e_95AEFABF606F67368D62A486/DiscoveryTurbo.m3u8
+#EXTINF:-1 group-title="DEPORTES",PX Sports
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/sa_hls_full_e_95AEFABF606F67368D62A486/PX_Sports.m3u8
+#EXTINF:-1 group-title="DEPORTES",America Sports
+https://cdn.cvattv.com.ar/live/c6eds/America_Sports/sa_hls_full_e_95AEFABF606F67368D62A486/America_Sports.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eventos1HD
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos1HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eventos 2 HD
+https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_2_HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eventos 3
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_3.m3u8
+#EXTINF:-1 group-title="DEPORTES",Placa Futbol PromoCH
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PromoCH/verimatrix_rotating/Placa_Futbol_PromoCH.m3u8
+#EXTINF:-1 group-title="DEPORTES",Placa Futbol PPV
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports Premiun HD
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",TNT Sports HD
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_hls_full_e_95AEFABF606F67368D62A486/TNT_Sports_HD.m3u8
+#EXTINF:-1 group-title="DEPORTES",TyC Internacional
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TyC_Internacional.m3u8
+#EXTINF:-1 group-title="INFANTILES",PAKA PAKA
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/sa_hls_full_e_95AEFABF606F67368D62A486/PAKA_PAKA.m3u8
+#EXTINF:-1 group-title="INFANTILES",DisneyChannelHD
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/sa_hls_full_e_95AEFABF606F67368D62A486/DisneyChannelHD.m3u8
+#EXTINF:-1 group-title="INFANTILES",Nickelodeon
+https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/sa_hls_full_e_95AEFABF606F67368D62A486/Nickelodeon.m3u8
+#EXTINF:-1 group-title="INFANTILES",CartoonNetwork
+https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/sa_hls_full_e_95AEFABF606F67368D62A486/CartoonNetwork.m3u8
+#EXTINF:-1 group-title="INFANTILES",Dreamworks
+https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/sa_hls_full_e_95AEFABF606F67368D62A486/Dreamworks.m3u8
+#EXTINF:-1 group-title="INFANTILES",Discovery Kids
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/sa_hls_full_e_95AEFABF606F67368D62A486/Discovery_Kids.m3u8
+#EXTINF:-1 group-title="INFANTILES",Boomerang
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/sa_hls_full_e_95AEFABF606F67368D62A486/Boomerang.m3u8
+#EXTINF:-1 group-title="INFANTILES",DisneyJr
+https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/sa_hls_full_e_95AEFABF606F67368D62A486/DisneyJr.m3u8
+#EXTINF:-1 group-title="INFANTILES",BabyTV
+https://cdn.cvattv.com.ar/live/c7eds/BabyTV/sa_hls_full_e_95AEFABF606F67368D62A486/BabyTV.m3u8
+#EXTINF:-1 group-title="INFANTILES",Tooncast
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/sa_hls_full_e_95AEFABF606F67368D62A486/Tooncast.m3u8
+#EXTINF:-1 group-title="INFANTILES",Nick Jr
+https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/sa_hls_full_e_95AEFABF606F67368D62A486/Nick_Jr.m3u8
+#EXTINF:-1 group-title="INFANTILES",Plim Plim
+https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/sa_hls_full_e_95AEFABF606F67368D62A486/Plim_Plim.m3u8
+#EXTINF:-1 group-title="INFANTILES",Kidoo
+https://cdn.cvattv.com.ar/live/c6eds/Kidoo/sa_hls_full_e_95AEFABF606F67368D62A486/Kidoo.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",INCAA Tv
+https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/sa_hls_full_e_95AEFABF606F67368D62A486/INCAA_Tv.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Cinemax
+https://cdn.cvattv.com.ar/live/c6eds/Cinemax/sa_hls_full_e_95AEFABF606F67368D62A486/Cinemax.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Volver
+https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_hls_full_e_95AEFABF606F67368D62A486/Volver.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Space
+https://cdn.cvattv.com.ar/live/c3eds/Space/sa_hls_full_e_95AEFABF606F67368D62A486/Space.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",CinecanalHD
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/sa_hls_full_e_95AEFABF606F67368D62A486/CinecanalHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNT HD Arg
+https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/sa_hls_full_e_95AEFABF606F67368D62A486/TNT_HD_Arg.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TNTSeries
+https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/sa_hls_full_e_95AEFABF606F67368D62A486/TNTSeries.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FXHD
+https://cdn.cvattv.com.ar/live/c3eds/FXHD/sa_hls_full_e_95AEFABF606F67368D62A486/FXHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",FOXHD
+https://cdn.cvattv.com.ar/live/c3eds/FOXHD/sa_hls_full_e_95AEFABF606F67368D62A486/FOXHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",SonyHD
+https://cdn.cvattv.com.ar/live/c7eds/SonyHD/sa_hls_full_e_95AEFABF606F67368D62A486/SonyHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",WarnerHD
+https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/sa_hls_full_e_95AEFABF606F67368D62A486/WarnerHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Universal Channel HD
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Universal_Channel_HD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AXNHD
+https://cdn.cvattv.com.ar/live/c7eds/AXNHD/sa_hls_full_e_95AEFABF606F67368D62A486/AXNHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Studio Universal
+https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/sa_hls_full_e_95AEFABF606F67368D62A486/Studio_Universal.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AEHD
+https://cdn.cvattv.com.ar/live/c7eds/AEHD/sa_hls_full_e_95AEFABF606F67368D62A486/AEHD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Europa Europa
+https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/sa_hls_full_e_95AEFABF606F67368D62A486/Europa_Europa.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",USA Network
+https://cdn.cvattv.com.ar/live/c7eds/USA_Network/sa_hls_full_e_95AEFABF606F67368D62A486/USA_Network.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TCM
+https://cdn.cvattv.com.ar/live/c6eds/TCM/sa_hls_full_e_95AEFABF606F67368D62A486/TCM.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC
+https://cdn.cvattv.com.ar/live/c3eds/AMC/sa_hls_full_e_95AEFABF606F67368D62A486/AMC.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",AMC Series
+https://cdn.cvattv.com.ar/live/c6eds/AMC_Series/sa_hls_full_e_95AEFABF606F67368D62A486/AMC_Series.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",A3 Series
+https://cdn.cvattv.com.ar/live/c7eds/A3_Series/sa_hls_full_e_95AEFABF606F67368D62A486/A3_Series.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Golden
+https://cdn.cvattv.com.ar/live/c6eds/Golden/sa_hls_full_e_95AEFABF606F67368D62A486/Golden.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Sony Movies
+https://cdn.cvattv.com.ar/live/c7eds/Sony_Movies/sa_hls_full_e_95AEFABF606F67368D62A486/Sony_Movies.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Eurochannel
+https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/sa_hls_full_e_95AEFABF606F67368D62A486/Eurochannel.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",ID
+https://cdn.cvattv.com.ar/live/c7eds/ID/sa_hls_full_e_95AEFABF606F67368D62A486/ID.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",ComedyCentral
+https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/sa_hls_full_e_95AEFABF606F67368D62A486/ComedyCentral.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Paramount
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/sa_hls_full_e_95AEFABF606F67368D62A486/Paramount.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",A3 Cine
+https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/sa_hls_full_e_95AEFABF606F67368D62A486/A3_Cine.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",DHE
+https://cdn.cvattv.com.ar/live/c7eds/DHE/sa_hls_full_e_95AEFABF606F67368D62A486/DHE.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Pasiones
+https://cdn.cvattv.com.ar/live/c7eds/Pasiones/sa_hls_full_e_95AEFABF606F67368D62A486/Pasiones.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Telemundo HD
+https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Telemundo_HD.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",TBS
+https://cdn.cvattv.com.ar/live/c6eds/TBS/sa_hls_full_e_95AEFABF606F67368D62A486/TBS.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Telenovelas
+https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/sa_hls_full_e_95AEFABF606F67368D62A486/Telenovelas.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Adult Swim
+https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/sa_hls_full_e_95AEFABF606F67368D62A486/Adult_Swim.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES",Placa Disney Plus
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Disney_Plus/sa_hls_full_e_95AEFABF606F67368D62A486/Placa_Disney_Plus.m3u8
+#EXTINF:-1 group-title="HBO",Placa HBO
+https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8
+#EXTINF:-1 group-title="HBO",HBOHD
+https://cdn.cvattv.com.ar/live/c3eds/HBOHD/sa_hls_full_e_95AEFABF606F67368D62A486/HBOHD.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2
+https://cdn.cvattv.com.ar/live/c6eds/HBO_2/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_2.m3u8
+#EXTINF:-1 group-title="HBO",HBO Plus
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Plus/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_Plus.m3u8
+#EXTINF:-1 group-title="HBO",HBO Mundi
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_Mundi.m3u8
+#EXTINF:-1 group-title="HBO",HBO POP
+https://cdn.cvattv.com.ar/live/c7eds/HBO_POP/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_POP.m3u8
+#EXTINF:-1 group-title="HBO",HBO Extreme
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_Extreme.m3u8
+#EXTINF:-1 group-title="HBO",HBO Family
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_Family.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature
+https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/sa_hls_full_e_95AEFABF606F67368D62A486/HBO_Signature.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal Premiere
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/sa_hls_full_e_95AEFABF606F67368D62A486/Universal_Premiere.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal Cinema
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/sa_hls_full_e_95AEFABF606F67368D62A486/Universal_Cinema.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal Comedy
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/sa_hls_full_e_95AEFABF606F67368D62A486/Universal_Comedy.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",universal Crime
+https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/sa_hls_full_e_95AEFABF606F67368D62A486/universal_Crime.m3u8
+#EXTINF:-1 group-title="UNIVERSAL",Universal Reality
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/sa_hls_full_e_95AEFABF606F67368D62A486/Universal_Reality.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Lifetime
+https://cdn.cvattv.com.ar/live/c6eds/Lifetime/sa_hls_full_e_95AEFABF606F67368D62A486/Lifetime.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Gourmet
+https://cdn.cvattv.com.ar/live/c3eds/Gourmet/sa_hls_full_e_95AEFABF606F67368D62A486/Gourmet.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Food Network
+https://cdn.cvattv.com.ar/live/c6eds/Food_Network/sa_hls_full_e_95AEFABF606F67368D62A486/Food_Network.m3u8
+#EXTINF:-1 group-title="VARIEDADES",E Entertainment Television
+https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/sa_hls_full_e_95AEFABF606F67368D62A486/E_Entertainment_Television.m3u8
+#EXTINF:-1 group-title="VARIEDADES",DiscoveryHomeHealthHD
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/sa_hls_full_e_95AEFABF606F67368D62A486/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1 group-title="VARIEDADES",TLC
+https://cdn.cvattv.com.ar/live/c6eds/TLC/sa_hls_full_e_95AEFABF606F67368D62A486/TLC.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Home and Garden
+https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/sa_hls_full_e_95AEFABF606F67368D62A486/Home_and_Garden.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Hola TV
+https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Hola_TV.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Canal Rural
+https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Rural.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Latam Rural
+https://cdn.cvattv.com.ar/live/c4eds/Latam_Rural/sa_hls_full_e_95AEFABF606F67368D62A486/Latam_Rural.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Sun Channel
+https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/sa_hls_full_e_95AEFABF606F67368D62A486/Sun_Channel.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Telemax
+https://cdn.cvattv.com.ar/live/c6eds/Telemax/sa_hls_full_e_95AEFABF606F67368D62A486/Telemax.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Senal Maria
+https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/sa_hls_full_e_95AEFABF606F67368D62A486/Senal_Maria.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Canal 21
+https://cdn.cvattv.com.ar/live/c6eds/Canal_21/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_21.m3u8
+#EXTINF:-1 group-title="VARIEDADES",EWTN
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/sa_hls_full_e_95AEFABF606F67368D62A486/EWTN.m3u8
+#EXTINF:-1 group-title="VARIEDADES",CANAL LUZ
+https://cdn.cvattv.com.ar/live/c7eds/CANAL_LUZ/sa_hls_full_e_95AEFABF606F67368D62A486/CANAL_LUZ.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Daystar
+https://cdn.cvattv.com.ar/live/c7eds/Daystar/sa_hls_full_e_95AEFABF606F67368D62A486/Daystar.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",NatGeoHD
+https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/sa_hls_full_e_95AEFABF606F67368D62A486/NatGeoHD.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",DiscoveryHD
+https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/sa_hls_full_e_95AEFABF606F67368D62A486/DiscoveryHD.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",AnimalPlanet
+https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/sa_hls_full_e_95AEFABF606F67368D62A486/AnimalPlanet.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Theater HD
+https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Theater_HD.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",HistoryHD
+https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/sa_hls_full_e_95AEFABF606F67368D62A486/HistoryHD.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Canal a
+https://cdn.cvattv.com.ar/live/c6eds/Canal_a/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_a.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Film Arts
+https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/sa_hls_full_e_95AEFABF606F67368D62A486/Film_Arts.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",History 2
+https://cdn.cvattv.com.ar/live/c6eds/History_2/sa_hls_full_e_95AEFABF606F67368D62A486/History_2.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery World HD
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Discovery_World_HD.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",Discovery Science
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/sa_hls_full_e_95AEFABF606F67368D62A486/Discovery_Science.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",DiscoveryTurbo
+https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/sa_hls_full_e_95AEFABF606F67368D62A486/DiscoveryTurbo.m3u8
+#EXTINF:-1 group-title="DOCUMENTALES",ID
+https://cdn.cvattv.com.ar/live/c7eds/ID/sa_hls_full_e_95AEFABF606F67368D62A486/ID.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV HD
+https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/sa_hls_full_e_95AEFABF606F67368D62A486/MTV_HD.m3u8
+#EXTINF:-1 group-title="MUSICA",Quiero HD
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Quiero_HD.m3u8
+#EXTINF:-1 group-title="MUSICA",Vorterix
+https://cdn.cvattv.com.ar/live/c6eds/Vorterix/sa_hls_full_e_95AEFABF606F67368D62A486/Vorterix.m3u8
+#EXTINF:-1 group-title="MUSICA",AllegroHD
+https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/sa_hls_full_e_95AEFABF606F67368D62A486/AllegroHD.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV00
+https://cdn.cvattv.com.ar/live/c7eds/MTV00/sa_hls_full_e_95AEFABF606F67368D62A486/MTV00.m3u8
+#EXTINF:-1 group-title="MUSICA",HTV
+https://cdn.cvattv.com.ar/live/c6eds/HTV/sa_hls_full_e_95AEFABF606F67368D62A486/HTV.m3u8
+#EXTINF:-1 group-title="MUSICA",CM
+https://cdn.cvattv.com.ar/live/c6eds/CM/sa_hls_full_e_95AEFABF606F67368D62A486/CM.m3u8
+#EXTINF:-1 group-title="MUSICA",MTV Hits
+https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/sa_hls_full_e_95AEFABF606F67368D62A486/MTV_Hits.m3u8
+#EXTINF:-1 group-title="MUSICA",Nickmusic
+https://cdn.cvattv.com.ar/live/c6eds/Nickmusic/sa_hls_full_e_95AEFABF606F67368D62A486/Nickmusic.m3u8
+#EXTINF:-1 group-title="MUSICA",Flow Music XP
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_XP.m3u8
+#EXTINF:-1 group-title="MUSICA",Flow Music 1
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_1.m3u8
+#EXTINF:-1 group-title="MUSICA",Flow Music 2
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_2.m3u8
+#EXTINF:-1 group-title="MUSICA",Flow Music 3
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_3/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_3.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",RAI
+https://cdn.cvattv.com.ar/live/c6eds/RAI/sa_hls_full_e_95AEFABF606F67368D62A486/RAI.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Bloomberg
+https://cdn.cvattv.com.ar/live/c3eds/Bloomberg/sa_hls_full_e_95AEFABF606F67368D62A486/Bloomberg.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Tv Chile
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/sa_hls_full_e_95AEFABF606F67368D62A486/Tv_Chile.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TV5 Monde
+https://cdn.cvattv.com.ar/live/c6eds/TV5_Monde/sa_hls_full_e_95AEFABF606F67368D62A486/TV5_Monde.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Antena 3
+https://cdn.cvattv.com.ar/live/c6eds/Antena_3/sa_hls_full_e_95AEFABF606F67368D62A486/Antena_3.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Telesur
+https://cdn.cvattv.com.ar/live/c6eds/Telesur/sa_hls_full_e_95AEFABF606F67368D62A486/Telesur.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",CNN Internacional
+https://cdn.cvattv.com.ar/live/c6eds/CNN_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/CNN_Internacional.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",BBC World News
+https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/sa_hls_full_e_95AEFABF606F67368D62A486/BBC_World_News.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Fox News
+https://cdn.cvattv.com.ar/live/c6eds/Fox_News/sa_hls_full_e_95AEFABF606F67368D62A486/Fox_News.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Alljazzera
+https://cdn.cvattv.com.ar/live/c7eds/Alljazzera/sa_hls_full_e_95AEFABF606F67368D62A486/Alljazzera.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Euronews
+https://cdn.cvattv.com.ar/live/c6eds/Euronews/sa_hls_full_e_95AEFABF606F67368D62A486/Euronews.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",DW
+https://cdn.cvattv.com.ar/live/c6eds/DW/sa_hls_full_e_95AEFABF606F67368D62A486/DW.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TV Espana
+https://cdn.cvattv.com.ar/live/c6eds/TV_Espana/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Espana.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Tv Galicia
+https://cdn.cvattv.com.ar/live/c6eds/Tv_Galicia/sa_hls_full_e_95AEFABF606F67368D62A486/Tv_Galicia.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Canal de las estrellas
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_las_estrellas.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Arirang
+https://cdn.cvattv.com.ar/live/c7eds/Arirang/sa_hls_full_e_95AEFABF606F67368D62A486/Arirang.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Canal U
+https://cdn.cvattv.com.ar/live/c3eds/Canal_U/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_U.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",France24 Flow
+https://cdn.cvattv.com.ar/live/c3eds/France24_Flow/sa_hls_full_e_95AEFABF606F67368D62A486/France24_Flow.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",France 24
+https://cdn.cvattv.com.ar/live/c6eds/France_24/sa_hls_full_e_95AEFABF606F67368D62A486/France_24.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Bandeirantes
+https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/sa_hls_full_e_95AEFABF606F67368D62A486/Bandeirantes.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Rede Record
+https://cdn.cvattv.com.ar/live/c3eds/Rede_Record/sa_hls_full_e_95AEFABF606F67368D62A486/Rede_Record.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",DNews
+https://cdn.cvattv.com.ar/live/c7eds/DNews/sa_hls_full_e_95AEFABF606F67368D62A486/DNews.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Argentinisima
+https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/sa_hls_full_e_95AEFABF606F67368D62A486/Argentinisima.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",TV Publica Internacional
+https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Publica_Internacional.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Telefe Internacional
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional.m3u8
+#EXTINF:-1 group-title="INTERNACIONALES",Artear Internacional
+https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)",Venus
+https://cdn.cvattv.com.ar/live/c6eds/Venus/sa_hls_full_e_95AEFABF606F67368D62A486/Venus.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)",Playboy
+https://cdn.cvattv.com.ar/live/c6eds/Playboy/sa_hls_full_e_95AEFABF606F67368D62A486/Playboy.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)",Hustler
+https://cdn.cvattv.com.ar/live/c7eds/Hustler/sa_hls_full_e_95AEFABF606F67368D62A486/Hustler.m3u8
+#EXTINF:-1 group-title="ADULTOS (+18)",Sextreme
+https://cdn.cvattv.com.ar/live/c6eds/Sextreme/sa_hls_full_e_95AEFABF606F67368D62A486/Sextreme.m3u8
+#EXTINF:-1 group-title="EVENTOS",Flow Music XP
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_XP/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_XP.m3u8
+#EXTINF:-1 group-title="EVENTOS",Flow Music 1
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_1/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_1.m3u8
+#EXTINF:-1 group-title="EVENTOS",Flow Music 2
+https://cdn.cvattv.com.ar/live/c7eds/Flow_Music_2/sa_hls_full_e_95AEFABF606F67368D62A486/Flow_Music_2.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal de la ciudad
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_de_la_ciudad.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos Norte
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Norte/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Norte.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos La Plata
+https://cdn.cvattv.com.ar/live/c6eds/Somos_La_Plata/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_La_Plata.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal Universidad
+https://cdn.cvattv.com.ar/live/c3eds/Canal_Universidad/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Universidad.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos San Pedro
+https://cdn.cvattv.com.ar/live/c7eds/Somos_San_Pedro/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_San_Pedro.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos Azul
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Azul/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Azul.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal 10 Junin
+https://cdn.cvattv.com.ar/live/c7eds/Canal_10_Junin/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_10_Junin.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",TeleJunin
+https://cdn.cvattv.com.ar/live/c7eds/TeleJunin/sa_hls_full_e_95AEFABF606F67368D62A486/TeleJunin.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",TSN Necochea
+https://cdn.cvattv.com.ar/live/c4eds/TSN_Necochea/sa_hls_full_e_95AEFABF606F67368D62A486/TSN_Necochea.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos Balcarce
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Balcarce/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Balcarce.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Telefe MDQ HD
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_MDQ_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_MDQ_HD.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal 10 MDQ
+https://cdn.cvattv.com.ar/live/c6eds/Canal_10_MDQ/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_10_MDQ.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal Ciudad MDQ
+https://cdn.cvattv.com.ar/live/c4eds/Canal_Ciudad_MDQ/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_Ciudad_MDQ.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal 2 MDQ LCC
+https://cdn.cvattv.com.ar/live/c4eds/Canal_2_MDQ_LCC/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_2_MDQ_LCC.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal 79 MDQ
+https://cdn.cvattv.com.ar/live/c3eds/Canal_79_MDQ/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_79_MDQ.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Universidad MDQ
+https://cdn.cvattv.com.ar/live/c7eds/Universidad_MDQ/sa_hls_full_e_95AEFABF606F67368D62A486/Universidad_MDQ.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",EcoTv Tandil
+https://cdn.cvattv.com.ar/live/c7eds/EcoTv_Tandil/sa_hls_full_e_95AEFABF606F67368D62A486/EcoTv_Tandil.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Somos Bahia Blanca
+https://cdn.cvattv.com.ar/live/c3eds/Somos_Bahia_Blanca/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Bahia_Blanca.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal7 Bahia Blanca
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_Bahia_Blanca/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7_Bahia_Blanca.m3u8
+#EXTINF:-1 group-title="PCIA. BS.AS.",Canal9 Bahia Blanca
+https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9_Bahia_Blanca.m3u8
+#EXTINF:-1 group-title="CORDOBA",Canal 8 CBA
+https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_8_CBA.m3u8
+#EXTINF:-1 group-title="CORDOBA",Canal10 CBA HD
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/sa_hls_full_e_95AEFABF606F67368D62A486/Canal10_CBA_HD.m3u8
+#EXTINF:-1 group-title="CORDOBA",Canal 12 CBA
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_12_CBA.m3u8
+#EXTINF:-1 group-title="CORDOBA",Canal C
+https://cdn.cvattv.com.ar/live/c5eds/Canal_C/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_C.m3u8
+#EXTINF:-1 group-title="CORDOBA",CBA24
+https://cdn.cvattv.com.ar/live/c4eds/CBA24/sa_hls_full_e_95AEFABF606F67368D62A486/CBA24.m3u8
+#EXTINF:-1 group-title="CORDOBA",Show Sports
+https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/sa_hls_full_e_95AEFABF606F67368D62A486/Show_Sports.m3u8
+#EXTINF:-1 group-title="CORDOBA",Local Carlos Paz
+https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/sa_hls_full_e_95AEFABF606F67368D62A486/Local_Carlos_Paz.m3u8
+#EXTINF:-1 group-title="CORDOBA",Canal 13 Rio 4to
+https://cdn.cvattv.com.ar/live/c4eds/Canal_13_Rio_4to/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_13_Rio_4to.m3u8
+#EXTINF:-1 group-title="CORDOBA",Somos Villa Maria
+https://cdn.cvattv.com.ar/live/c6eds/Somos_Villa_Maria/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Villa_Maria.m3u8
+#EXTINF:-1 group-title="CORDOBA",Somos Bell Ville
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Bell_Ville/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Bell_Ville.m3u8
+#EXTINF:-1 group-title="CORDOBA",Somos Rio 3ro
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rio_3ro/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Rio_3ro.m3u8
+#EXTINF:-1 group-title="LITORAL",Somos Rafaela
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Rafaela/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Rafaela.m3u8
+#EXTINF:-1 group-title="LITORAL",Somos Rosario
+https://cdn.cvattv.com.ar/live/c5eds/Somos_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Rosario.m3u8
+#EXTINF:-1 group-title="LITORAL",Canal 3 Rosario
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_3_Rosario.m3u8
+#EXTINF:-1 group-title="LITORAL",Canal 5 Rosario
+https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_5_Rosario.m3u8
+#EXTINF:-1 group-title="LITORAL",Somos STF
+https://cdn.cvattv.com.ar/live/c5eds/Somos_STF/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_STF.m3u8
+#EXTINF:-1 group-title="LITORAL",Canal 13 SFE
+https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_13_SFE.m3u8
+#EXTINF:-1 group-title="LITORAL",Canal 9 Parana
+https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_9_Parana.m3u8
+#EXTINF:-1 group-title="LITORAL",5RTV
+https://cdn.cvattv.com.ar/live/c4eds/5RTV/sa_hls_full_e_95AEFABF606F67368D62A486/5RTV.m3u8
+#EXTINF:-1 group-title="LITORAL",Cable Y Diario
+https://cdn.cvattv.com.ar/live/c6eds/Cable_Y_Diario/sa_hls_full_e_95AEFABF606F67368D62A486/Cable_Y_Diario.m3u8
+#EXTINF:-1 group-title="LITORAL",Canal 11 Parana
+https://cdn.cvattv.com.ar/live/c7eds/Canal_11_Parana/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_11_Parana.m3u8
+#EXTINF:-1 group-title="LITORAL",Somos Parana
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Parana/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Parana.m3u8
+#EXTINF:-1 group-title="NORTE",Canal7 SDE
+https://cdn.cvattv.com.ar/live/c3eds/Canal7_SDE/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7_SDE.m3u8
+#EXTINF:-1 group-title="NORTE",Canal7 Catamarca
+https://cdn.cvattv.com.ar/live/c4eds/Canal7_Catamarca/sa_hls_full_e_95AEFABF606F67368D62A486/Canal7_Catamarca.m3u8
+#EXTINF:-1 group-title="NORTE",Canal9 La Rioja
+https://cdn.cvattv.com.ar/live/c4eds/Canal9_La_Rioja/sa_hls_full_e_95AEFABF606F67368D62A486/Canal9_La_Rioja.m3u8
+#EXTINF:-1 group-title="NORTE",Somos Salta
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Salta/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Salta.m3u8
+#EXTINF:-1 group-title="NORTE",Telefe Salta
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Salta/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Salta.m3u8
+#EXTINF:-1 group-title="NORTE",CH 7 Jujuy
+https://cdn.cvattv.com.ar/live/c4eds/CH_7_Jujuy/sa_hls_full_e_95AEFABF606F67368D62A486/CH_7_Jujuy.m3u8
+#EXTINF:-1 group-title="NORTE",Somos Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Tucuman/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Tucuman.m3u8
+#EXTINF:-1 group-title="NORTE",Canal 8 Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_8_Tucuman.m3u8
+#EXTINF:-1 group-title="NORTE",Ch10 Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/sa_hls_full_e_95AEFABF606F67368D62A486/Ch10_Tucuman.m3u8
+#EXTINF:-1 group-title="NORTE",America Tucuman
+https://cdn.cvattv.com.ar/live/c7eds/America_Tucuman/sa_hls_full_e_95AEFABF606F67368D62A486/America_Tucuman.m3u8
+#EXTINF:-1 group-title="CHACO Y CORRIENTES",Somos Corrientes
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Corrientes/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Corrientes.m3u8
+#EXTINF:-1 group-title="CHACO Y CORRIENTES",Somos Resistencia
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Resistencia/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Resistencia.m3u8
+#EXTINF:-1 group-title="CHACO Y CORRIENTES",CH 9 Resistencia
+https://cdn.cvattv.com.ar/live/c4eds/CH_9_Resistencia/sa_hls_full_e_95AEFABF606F67368D62A486/CH_9_Resistencia.m3u8
+#EXTINF:-1 group-title="CHACO Y CORRIENTES",CH 13 Corrientes
+https://cdn.cvattv.com.ar/live/c4eds/CH_13_Corrientes/sa_hls_full_e_95AEFABF606F67368D62A486/CH_13_Corrientes.m3u8
+#EXTINF:-1 group-title="CHACO Y CORRIENTES",Telemedia
+https://cdn.cvattv.com.ar/live/c7eds/Telemedia/sa_hls_full_e_95AEFABF606F67368D62A486/Telemedia.m3u8
+#EXTINF:-1 group-title="FORMOSA",Somos Formosa
+https://cdn.cvattv.com.ar/live/c4eds/Somos_Formosa/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Formosa.m3u8
+#EXTINF:-1 group-title="FORMOSA",Canal 3 Formosa
+https://cdn.cvattv.com.ar/live/c4eds/Canal_3_Formosa/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_3_Formosa.m3u8
+#EXTINF:-1 group-title="FORMOSA",Canal 11 Formosa
+https://cdn.cvattv.com.ar/live/c4eds/Canal_11_Formosa/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_11_Formosa.m3u8
+#EXTINF:-1 group-title="MISIONES",Somos Misiones
+https://cdn.cvattv.com.ar/live/c7eds/Somos_Misiones/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_Misiones.m3u8
+#EXTINF:-1 group-title="MISIONES",CH 12 Posadas
+https://cdn.cvattv.com.ar/live/c4eds/CH_12_Posadas/sa_hls_full_e_95AEFABF606F67368D62A486/CH_12_Posadas.m3u8
+#EXTINF:-1 group-title="LA PAMPA",Somos La Pampa
+https://cdn.cvattv.com.ar/live/c7eds/Somos_La_Pampa/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_La_Pampa.m3u8
+#EXTINF:-1 group-title="LA PAMPA",Canal3 Santa Rosa
+https://cdn.cvattv.com.ar/live/c4eds/Canal3_Santa_Rosa/sa_hls_full_e_95AEFABF606F67368D62A486/Canal3_Santa_Rosa.m3u8
+#EXTINF:-1 group-title="NEUQUEN",Somos El Valle
+https://cdn.cvattv.com.ar/live/c4eds/Somos_El_Valle/sa_hls_full_e_95AEFABF606F67368D62A486/Somos_El_Valle.m3u8
+#EXTINF:-1 group-title="NEUQUEN",Telefe Neuquen
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Neuquen.m3u8
+#EXTINF:-1 group-title="NEUQUEN",Canal10 Rio Negro
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_Rio_Negro/sa_hls_full_e_95AEFABF606F67368D62A486/Canal10_Rio_Negro.m3u8
+#EXTINF:-1 group-title="URUGUAY",Eventos3 UY
+https://cdn.cvattv.com.ar/live/c4eds/Eventos3_UY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos3_UY.m3u8
+#EXTINF:-1 group-title="URUGUAY",Eventos 2 UY
+https://cdn.cvattv.com.ar/live/c4eds/Eventos_2_UY/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_2_UY.m3u8
+#EXTINF:-1 group-title="URUGUAY",Teve Ciudad
+https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/sa_hls_full_e_95AEFABF606F67368D62A486/Teve_Ciudad.m3u8
+#EXTINF:-1 group-title="URUGUAY",TV Nacional Uy
+https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Nacional_Uy.m3u8
+#EXTINF:-1 group-title="URUGUAY",Canal4 URU
+https://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/sa_hls_full_e_95AEFABF606F67368D62A486/Canal4_URU.m3u8
+#EXTINF:-1 group-title="URUGUAY",Canal10 URU
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/sa_hls_full_e_95AEFABF606F67368D62A486/Canal10_URU.m3u8
+#EXTINF:-1 group-title="URUGUAY",Canal12URU
+https://cdn.cvattv.com.ar/live/c4eds/Canal12URU/sa_hls_full_e_95AEFABF606F67368D62A486/Canal12URU.m3u8
+#EXTINF:-1 group-title="URUGUAY",VTV HD
+https://cdn.cvattv.com.ar/live/c3eds/VTV_HD/sa_hls_full_e_95AEFABF606F67368D62A486/VTV_HD.m3u8
+#EXTINF:-1 group-title="URUGUAY",VTV Plus HD
+https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/sa_hls_full_e_95AEFABF606F67368D62A486/VTV_Plus_HD.m3u8
+#EXTINF:-1 group-title="URUGUAY",Eventos HD Uy
+https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/sa_hls_full_e_95AEFABF606F67368D62A486/Eventos_HD_Uy.m3u8
+#EXTINF:-1 group-title="PARAGUAY",ABC TV C4
+https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/sa_hls_full_e_95AEFABF606F67368D62A486/ABC_TV_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",C9N C4
+https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/sa_hls_full_e_95AEFABF606F67368D62A486/C9N_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",PARAVISION C4
+https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/sa_hls_full_e_95AEFABF606F67368D62A486/PARAVISION_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",NOTICIAS PY C4
+https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/sa_hls_full_e_95AEFABF606F67368D62A486/NOTICIAS_PY_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",TELEFUTURO C4
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/sa_hls_full_e_95AEFABF606F67368D62A486/TELEFUTURO_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",UNICANAL C4
+https://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/sa_hls_full_e_95AEFABF606F67368D62A486/UNICANAL_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",SNT C4
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/sa_hls_full_e_95AEFABF606F67368D62A486/SNT_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",RPC C4
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/sa_hls_full_e_95AEFABF606F67368D62A486/RPC_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",LA TELE C4
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/sa_hls_full_e_95AEFABF606F67368D62A486/LA_TELE_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",GEN TV
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/sa_hls_full_e_95AEFABF606F67368D62A486/GEN_TV.m3u8
+#EXTINF:-1 group-title="PARAGUAY",SUR TV C4
+https://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/sa_hls_full_e_95AEFABF606F67368D62A486/SUR_TV_C4.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Canal PRO
+https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_PRO.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Mega TV
+https://cdn.cvattv.com.ar/live/c7eds/Mega_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Mega_TV.m3u8
+#EXTINF:-1 group-title="PARAGUAY",5 Dias PY
+https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/sa_hls_full_e_95AEFABF606F67368D62A486/5_Dias_PY.m3u8
+#EXTINF:-1 group-title="PARAGUAY",UnionTV
+https://cdn.cvattv.com.ar/live/c7eds/UnionTV/sa_hls_full_e_95AEFABF606F67368D62A486/UnionTV.m3u8
+#EXTINF:-1 group-title="PARAGUAY",HEI NOW
+https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/sa_hls_full_e_95AEFABF606F67368D62A486/HEI_NOW.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Venus Media
+https://cdn.cvattv.com.ar/live/c7eds/Venus_Media/sa_hls_full_e_95AEFABF606F67368D62A486/Venus_Media.m3u8
+#EXTINF:-1 group-title="PARAGUAY",TV Camara
+https://cdn.cvattv.com.ar/live/c4eds/TV_Camara/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Camara.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Paraguay TV
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/sa_hls_full_e_95AEFABF606F67368D62A486/Paraguay_TV.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Universo
+https://cdn.cvattv.com.ar/live/c7eds/Universo/sa_hls_full_e_95AEFABF606F67368D62A486/Universo.m3u8
+#EXTINF:-1 group-title="PARAGUAY",America PY
+https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_hls_full_e_95AEFABF606F67368D62A486/America_PY.m3u8
+#EXTINF:-1 group-title="PARAGUAY",A24 PY
+https://cdn.cvattv.com.ar/live/c4eds/A24_PY/sa_hls_full_e_95AEFABF606F67368D62A486/A24_PY.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Canal2 PY
+https://cdn.cvattv.com.ar/live/c3eds/Canal2_PY/sa_hls_full_e_95AEFABF606F67368D62A486/Canal2_PY.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Nanduti Py
+https://cdn.cvattv.com.ar/live/c4eds/Nanduti_Py/sa_hls_full_e_95AEFABF606F67368D62A486/Nanduti_Py.m3u8
+#EXTINF:-1 group-title="PARAGUAY",Educanal
+https://cdn.cvattv.com.ar/live/c4eds/Educanal/sa_hls_full_e_95AEFABF606F67368D62A486/Educanal.m3u8
+#EXTINF:-1 group-title="PARAGUAY",RCC
+https://cdn.cvattv.com.ar/live/c4eds/RCC/sa_hls_full_e_95AEFABF606F67368D62A486/RCC.m3u8
+#EXTINF:-1 group-title="PARAGUAY",TV Publica Internacional
+https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Publica_Internacional.m3u8
