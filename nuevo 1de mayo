@@ -169,10 +169,9 @@ http://mundo2.vip/live/MentorA2025/MentorA2025/454927.ts
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 
 http://138.59.227.20:8000/play/a06x/index.m3u8
 
-#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn disney+2
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn disney+ 2
 https://khala.skylivehd.com/global/espnar/index.m3u8?ip=181.0.54.149&token=f257c8ae2db78c0ea7219ec3c4cb660b1c54e037-f4-1787138102-1787084102
 
-#EXTM3U
 #EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgQbeo.jpeg" group-title="REALITY",GRAN HERMANO 3
 http://mundo2.vip/live/MentorA2025/MentorA2025/454926.ts
 
