@@ -130,7 +130,7 @@ http://190.117.20.37:8000/play/a08d/index.m3u8
 http://148.222.231.110:8087/play/a11z/index.m3u8
 
 #EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="https://i.imgur.com/V8LWHRx.png" group-title="TV",History
-http://148.222.231.110:8087/play/a0dn/index.m3u8
+http://190.61.114.186:8000/play/a044/index.m3u8
 
 #EXTINF:-1 tvg-id="LOS SIMPSONS" tvg-name="LOS SIMPSONS 24/7" tvg-logo="https://w7.pngwing.com/pngs/389/717/png-transparent-the-simpsons-bart-simpson-marge-simpson-logo-simpsons-television-heroes-text.png" group-title="TV",LOS SIMPSONS
 http://flowzy.work:8080/live/ACXJ59027/novpdc018124/654300.ts
