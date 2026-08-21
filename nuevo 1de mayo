@@ -111,7 +111,7 @@ http://168.232.168.242:9999/play/a08n/index.m3u8?hls
 #EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS juan
 https://khala.skylivehd.com/global/disney1/index.m3u8?ip=181.0.54.149&token=6fdc7299c7279fb27786d291f873cb58da528633-e3-1786535337-1786481337
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 1
 http://138.59.227.20:8000/play/a0ft/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS +
@@ -120,7 +120,7 @@ http://190.7.19.197:232/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports2.ar" tvg-name="DSPORT 2" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 2
 http://oscam281w.ooguy.com:5000/server/1234/Deportes/a0h4/index.m3u8?device_id=294a3a20cef0
 
-#EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 
+#EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 0
 http://190.117.20.37:8000/play/a08d/index.m3u8
 
 #EXTINF:-1 tvg-id="dinosaurios" tvg-name="DINOS 24/7" tvg-logo="https://i.imgur.com/w0G5R17.jpeg" group-title="TV", DINOSAURIOS 24/7
