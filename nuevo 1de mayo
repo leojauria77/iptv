@@ -43,7 +43,7 @@ http://138.118.213.242:85/Live/ed8c8b5970e2179091fa605853b6ccc7/telefe.playlist.
 http://138.59.227.20:8000/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports 2" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports 1
-http://slayertv.vip/live/2286904616/0867097540/291728.ts
+https://pelisjuanita.com/tv/servers/shakaplayer.php?id=tnt_sports_hd
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV 2" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América Tv 2
 http://138.59.227.20:8000/play/a094/index.m3u8
