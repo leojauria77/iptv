@@ -183,7 +183,7 @@ http://127.0.0.1:8080/canal.m3u8
 http://mundo2.vip/live/MentorA2025/MentorA2025/453157.ts
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Disney plus
-https://khala.skylivehd.com/global/espnpremium/index.m3u8?ip=181.0.55.233&token=65d489096dd01e6827d77db8fd0273d1c2a868fc-06-1787561298-1787507298
+https://khala.skylivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=3d34157c613f9a9557afc1edd98c7db702c058be-0d-1787578474-1787524474
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV 1" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV 1
 http://slayertv.vip/live/2286904616/0867097540/400317.ts
