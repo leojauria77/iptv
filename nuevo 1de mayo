@@ -188,3 +188,69 @@ https://khala.skylivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=3d34157
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV 1" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV 1
 http://slayertv.vip/live/2286904616/0867097540/400317.ts
 
+#EXTINF:-1,DSports 2 45
+http://45.188.229.33:8000/play/a1ix/index.m3u8
+
+EXTINF:-1,DSports 45
+http://45.188.229.33:8000/play/a1iw/index.m3u8
+
+
+EXTINF:-1,ESPN Premium #1
+http://45.188.229.33:8000/play/a1l4/index.m3u8
+#EXTINF:-1,ESPN Premium #2
+http://45.188.229.33:8000/play/a0tv/index.m3u8
+#EXTINF:-1,ESPN Premium #3
+http://45.188.229.33:8000/play/a1di/index.m3u8
+#EXTINF:-1,ESPN Premium #4
+http://45.188.229.33:8000/play/a13l/index.m3u8
+
+EXTINF:-1,FM La100
+http://45.188.229.33:8000/play/a1du/index.m3u8
+
+#EXTINF:-1,Fox Sports 45
+http://45.188.229.33:8000/play/a1cp/index.m3u8
+
+EXTINF:-1,Fox Sports HD 45
+http://45.188.229.33:8000/play/a1dh/index.m3u8
+
+#EXTINF:-1,History 2 #45
+http://45.188.229.33:8000/play/a0xn/index.m3u8
+#EXTINF:-1,History Channel #2
+http://45.188.229.33:8000/play/a1aq/index.m3u8
+#EXTINF:-1,History Channel #3
+http://45.188.229.33:8000/play/a1kc/index.m3u8
+#EXTINF:-1,History Channel #4
+http://45.188.229.33:8000/play/a104/index.m3u8
+
+#EXTINF:-1,Mega #45
+http://45.188.229.33:8000/play/a0tr/index.m3u8
+
+#EXTINF:-1,TNT SPORTS#45
+http://45.188.229.33:8000/play/a129/index.m3u8
+
+
+#EXTINF:-1,TNT Sports #1
+http://45.188.229.33:8000/play/a1k1/index.m3u8
+#EXTINF:-1,TNT Sports Premium #2
+http://45.188.229.33:8000/play/a0tu/index.m3u8
+#EXTINF:-1,TNT Sports Premiun #3
+http://45.188.229.33:8000/play/a137/index.m3u8
+
+#EXTINF:-1,Telefe #1
+http://45.188.229.33:8000/play/a0w9/index.m3u8
+#EXTINF:-1,Telefe #2
+http://45.188.229.33:8000/play/a1dm/index.m3u8
+#EXTINF:-1,Telefe #3
+http://45.188.229.33:8000/play/a1cl/index.m3u8
+
+EXTINF:-1,The History Channel #45
+http://45.188.229.33:8000/play/a1b6/index.m3u8
+
+EXTINF:-1,el nueve #1
+http://45.188.229.33:8000/play/a1aw/index.m3u8
+#EXTINF:-1,el nueve #2
+http://45.188.229.33:8000/play/a1a5/index.m3u8
+#EXTINF:-1,el trece #1
+http://45.188.229.33:8000/play/a1dk/index.m3u8
+#EXTINF:-1,el trece #2
+http://45.188.229.33:8000/play/a1cm/index.m3u8
