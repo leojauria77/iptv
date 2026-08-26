@@ -76,7 +76,7 @@ http://190.7.19.197:232/play/a038/index.m3u8
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn
-https://khala.skylivehd.com/global/disney1/index.m3u8?ip=181.0.55.233&token=ef6c7d55cc164846e22600e64f95828253861576-4a-1787578352-1787524352
+https://khala.skylivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=be34a7c09855b564ed3d0c25e309a6b349343c19-01-1787828530-1787774530
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Disney plus
 https://khala.skylivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=3d34157c613f9a9557afc1edd98c7db702c058be-0d-1787578474-1787524474
