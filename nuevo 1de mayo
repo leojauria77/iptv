@@ -232,7 +232,7 @@ http://45.188.229.33:8000/play/a0tu/index.m3u8
 http://45.188.229.33:8000/play/a137/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT sport prueba" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports prueba
-http://68.235.37.108:8089/play/hls/eyJpdiI6IkpYNkVZSlMzMUhHWmErMTZ1ZTMya2c9PSIsInZhbHVlIjoieEtDOUZDSnJuWTFlYzVrc0dTSFc0RXFEd0wzVnoyNzVnYjZUNlAyZXdzWXBrMHhnWU4yclk3NEZ3MVlyY0xlUyIsIm1hYyI6IjkzNDIwM2FkNTJkNDI5ODk5ZDVlNGRkMmEzNzljZmRmODk4MzA2Y2I1NWRkNTFiZDI0YjRhMzU1NGY1YTQ3NDYiLCJ0YWciOiIifQ==/8034329b-006f-428c-b014-30aacc5d0b13.m3u8?lvtoken=eyJpdiI6IlNnV3Q0N2VQaEN3eXdnOG0xaWZVeGc9PSIsInZhbHVlIjoiUlQyUU12ejVxeVRvaDlGcnV5UXQ5OVZOQTV5L2lLOHRWemFGWHFCYTdMT1ZvUlZFdCtncVB0WUpVcFBVQW5Va0ptTXRwMUlGZ1BNL2xDMW9YNklLR3psTjlxR3RYMU5wMEp2bk9vVC9udW1iQnBIUitvRjhPalNaYksrVlNHZjR2a01zL1ZVVW1NaXphUkJtOHgxZGRsUmYwN243dDRibWJhSU4wNWVQOERtQ0xtK09qV21qd0dUTHZWREloWktRNWJKc0MzNFY3S2F3a3BWS0J2SmZqYVlSd29qSFV1L01Sbk04TWxRUHA3ST0iLCJtYWMiOiI0ZmZlNDMwMDFhMGZiMjJiNzMxMDI5MjBhN2YxNzU4YTVlNjQ3MmZlYmJhMmRkNjZjODNkMjAxY2JiMzIxOGEwIiwidGFnIjoiIn0%3D&r=1189c1&rt=fb13b5a2f49c44e33b463ebf136861c7
+http://carlosiptv.com:8089/live/Eduardo01/Eduardo01/505.ts
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT 1" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 1
 http://slayertv.vip/live/2286904616/0867097540/291729.ts
