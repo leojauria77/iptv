@@ -251,3 +251,5 @@ http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="volver.ar" tvg-name="VOLVER" tvg-logo="https://i.imgur.com/tGgjxRn.jpeg" group-title="TV",VOLVER 
 http://138.59.227.20:8000/play/a066/index.m3u8
+
+http://carlosiptv.com:8089/movie/Eduardo01/Eduardo01/877507.mkv
