@@ -72,12 +72,8 @@ https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=fa9699b
 #EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium Ar1
 http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/528575.ts
 
-#EXTINF:-1,ESPN Premium #2
-http://45.188.229.33:8000/play/a0tv/index.m3u8
 #EXTINF:-1,ESPN Premium #3
 http://45.188.229.33:8000/play/a1di/index.m3u8
-#EXTINF:-1,ESPN Premium #4
-http://45.188.229.33:8000/play/a13l/index.m3u8
 
 #EXTINF:-1,Fox Sports 45
 http://45.188.229.33:8000/play/a1cp/index.m3u8
