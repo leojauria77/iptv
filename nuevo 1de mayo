@@ -81,7 +81,7 @@ https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=fa9699b
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Disney plus
 https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=fa9699bd548a35d4b638423028fa72f9dda3fb89-8b-1787842001-1787788001
 
-#EXTINF:-1,ESPN Premium #1
+#EXTINF:-1,ESPN Premium Ar1
 tvg-logo="https://i.imgur.com/AmGp8BB.png"
 http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/528575.ts
 
