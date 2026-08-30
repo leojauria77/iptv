@@ -82,7 +82,9 @@ https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=fa9699b
 https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.0.55.233&token=fa9699bd548a35d4b638423028fa72f9dda3fb89-8b-1787842001-1787788001
 
 #EXTINF:-1,ESPN Premium #1
-http://45.188.229.33:8000/play/a1l4/index.m3u8
+tvg-logo="https://i.imgur.com/AmGp8BB.png"
+http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/528575.ts
+
 #EXTINF:-1,ESPN Premium #2
 http://45.188.229.33:8000/play/a0tv/index.m3u8
 #EXTINF:-1,ESPN Premium #3
