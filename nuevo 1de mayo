@@ -212,8 +212,8 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium 1" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium 1
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports P2" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports P2
-https://megatvcdn1-sl.megacable.com.ar/content/live/TNT_Sports_HD/master_wv.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Ar2" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Ar2
+http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/491287.ts
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports PREMIUM 3" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports PREMIUM LEO
 http://181.13.252.102:8000/play/a0bc/index.m3u8
