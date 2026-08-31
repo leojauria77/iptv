@@ -27,6 +27,12 @@ http://slayertv.vip/live/2286904616/0867097540/400317.ts
 #EXTINF:-1 tvg-id="CanalDeLaMusica.ar" tvg-name="Canal de Musica" tvg-logo="https://i.imgur.com/lsYxA7u.png" group-title="TV",Canal de la musica
 http://190.7.19.197:232/play/a094/index.m3u8
 
+#EXTINF:-1, Dinosaurios disney T1
+http://starlatino.tv:8880/live/Gx63042656/zVJtwYNVw2xF/526460.ts
+
+#EXTINF:-1, Dinosaurios disney T2
+http://starlatino.tv:8880/live/Gx63042656/zVJtwYNVw2xF/526461.ts
+
 #EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="Canal 9" tvg-logo="https://i.imgur.com/BsNjh4r.png" group-title="TV",Canal 9
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
