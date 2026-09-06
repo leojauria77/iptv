@@ -24,8 +24,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV 4" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV 4
 http://138.59.227.20:8000/play/a094/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV slayer" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV slayer
-http://slayertv.vip/live/2286904616/0867097540/400317.ts
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV slayer" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV mundo2
+http://mundo2.vip/live/IrisMoya1/Guayaquil25/81276.ts
 
 #EXTINF:-1, Chespirito 
 http://carlosiptv.com:8089/live/Eduardo01/Eduardo01/691771.ts
