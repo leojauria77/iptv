@@ -231,17 +231,14 @@ http://45.188.229.33:8000/play/a137/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT sport Ar1" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Ar1
 http://carlosiptv.com:8089/live/Eduardo01/Eduardo01/505.ts
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT 1" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 1
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT 1" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT slayer
 http://slayertv.vip/live/2286904616/0867097540/291729.ts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT 2 Leo" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 2 leo
-http://177.53.153.207:8000/play/a005/index.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 3
-http://138.59.227.20:8000/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 
 http://138.59.227.20:8000/play/a06x/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT dazzle
+http://dazzlexpro.com/live/721279/721279/670988.ts
 
 #EXTINF:-1 tvg-id="Tv pública" tvg-name="TV PÚBLICA" tvg-logo="https://i.imgur.com/3PPyIjE.jpeg" group-title="TV",TV PÚBLICA 
 http://138.59.227.20:8000/play/a095/index.m3u8
