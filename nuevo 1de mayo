@@ -217,9 +217,6 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 #EXTINF:-1,TNT SPORTS#45
 http://45.188.229.33:8000/play/a129/index.m3u8
 
-#EXTINF:-1,TNT Sports Premium #2
-http://45.188.229.33:8000/play/a0tu/index.m3u8
-
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT sport Ar1" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Ar1
 http://carlosiptv.com:8089/live/Eduardo01/Eduardo01/505.ts
 
