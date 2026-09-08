@@ -10,7 +10,8 @@ http://190.108.83.69:8000/play/a09l/index.m3u8
 http://138.59.227.20:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-name="RCN NOVELAS" tvg-logo="https://i.imgur.com/y3H8Fng.png" group-title="TV", RCN NOVELAS
-http://deluxe-tv.vip/live/hsgggew4g/sdf42sf22f4/1588364.ts
+#EXTINF:-1,Alf 2
+http://deluxe-tv.vip/live/hsgggew4g/sdf42sf22f4/1323157.ts
 
 #EXTINF:-1,Telenovelas 1 http://138.59.227.20:8000/play/a07y/index.m3u8
 
