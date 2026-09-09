@@ -60,6 +60,9 @@ http://190.7.19.197:232/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 1
 http://slayertv.vip/live/2286904616/0867097540/291713.ts
 
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn liketv
+http://liketv.xyz:8080/live/Luis2025/Luis2025/134.ts
+
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium Disney+
 http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/369708.ts
 
