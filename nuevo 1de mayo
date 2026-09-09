@@ -142,6 +142,7 @@ http://190.7.19.197:232/play/a05a/index.m3u8
 
 #EXTINF:-1,el trece #1
 http://45.188.229.33:8000/play/a1dk/index.m3u8
+
 #EXTINF:-1,el trece #2
 http://45.188.229.33:8000/play/a1cm/index.m3u8
 
@@ -156,23 +157,21 @@ http://138.59.227.20:8000/play/a06n/index.m3u8
 
 #EXTINF:-1,History 2 #45
 http://45.188.229.33:8000/play/a0xn/index.m3u8
+
 #EXTINF:-1,History Channel #2
 http://45.188.229.33:8000/play/a1aq/index.m3u8
+
 #EXTINF:-1,History Channel #3
 http://45.188.229.33:8000/play/a1kc/index.m3u8
+
 #EXTINF:-1,History Channel #4
 http://45.188.229.33:8000/play/a104/index.m3u8
-#EXTINF:-1,The History Channel #45
+
+#EXTINF:-1,The History Channel #5
 http://45.188.229.33:8000/play/a1b6/index.m3u8
 
 #EXTINF:-1,La casa de mickey mouse
 http://starlatino.tv:8880/live/Gx63042656/zVJtwYNVw2xF/526384.ts
-
-#EXTINF:-1 tvg-id="MagicKids.ar@SD" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Animation",Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
-
-#EXTINF:-1,Mega #45
-http://45.188.229.33:8000/play/a0tr/index.m3u8
 
 #EXTINF:-1 tvg-id="NGFederal.ar@SD" tvg-logo="https://i.imgur.com/lJCIqYn.png" group-title="General",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
@@ -206,8 +205,10 @@ http://livetv-plus.com:8880/live/edgardocpf/VWJGA/12933.ts
 
 #EXTINF:-1,Telefe #1
 http://45.188.229.33:8000/play/a0w9/index.m3u8
+
 #EXTINF:-1,Telefe #2
 http://45.188.229.33:8000/play/a1dm/index.m3u8
+
 #EXTINF:-1,Telefe #3
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
