@@ -66,6 +66,9 @@ http://liketv.xyz:8080/live/Luis2025/Luis2025/134.ts
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium Disney+
 http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/369708.ts
 
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium Disney+" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium liketv
+http://liketv.xyz:8080/live/Luis2025/Luis2025/143.ts
+
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium 2" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 2
 http://45.188.229.33:8000/play/a1di/index.m3u8
 
