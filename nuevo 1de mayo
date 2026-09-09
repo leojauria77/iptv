@@ -79,7 +79,7 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 http://dazzlexpro.com/live/jeff12/jeff12/671145.ts
 
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn
-https://fala.futlivehd.com:443/espn/index.m3u8?ip=181.169.116.92&token=158589379d12565853b5b7644011272c2af0be43-8f-1788957977-1788903977
+http://liontv.es:8080/live/RandallSolano05/4MVwhA9KT3/73.ts
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN ak47
 http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/528613.ts
