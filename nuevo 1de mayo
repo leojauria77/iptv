@@ -76,7 +76,7 @@ http://190.7.19.197:232/play/a038/index.m3u8
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn
-http://starlatino.tv:8880/live/Gx63042656/zVJtwYNVw2xF/327917.ts
+https://fala.futlivehd.com:443/espn/index.m3u8?ip=181.169.116.92&token=158589379d12565853b5b7644011272c2af0be43-8f-1788957977-1788903977
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Disney plus
 https://khala.futlivehd.com/global/espn/index.m3u8?ip=181.169.116.92&token=158589379d12565853b5b7644011272c2af0be43-8f-1788957977-1788903977
