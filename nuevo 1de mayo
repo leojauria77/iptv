@@ -93,6 +93,9 @@ http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/528613.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 1 lion
 http://liontv.es:8080/live/RandallSolano05/4MVwhA9KT3/118058.ts
 
+#EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 2 liketv
+http://liketv.xyz:8080/live/Luis2025/Luis2025/7247.ts
+
 #EXTINF:-1,Fox Sports 45
 http://45.188.229.33:8000/play/a1cp/index.m3u8
 
