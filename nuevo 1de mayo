@@ -195,9 +195,9 @@ http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/3796.ts
 http://deluxe-tv.vip/live/hsgggew4g/sdf42sf22f4/1241561.ts
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 5" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 5
-http://190.7.19.197:232/play/a059/index.m3u8
+http://mundo2.vip/live/IrisMoya1/Guayaquil25/81285.ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="PLIM PLIM TV" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",PLIM PLIM TV
+#EXTINF:-1 tvg-id="Telefe" tvg-name="PLIM PLIM TV" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",PLIM PLIM TV
 http://38.210.105.10:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 6" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 6
