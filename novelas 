@@ -13,7 +13,7 @@ http://138.59.227.20:8000/play/a07y/index.m3u8
 http://181.78.8.199:8000/play/a0k8/index.m3u8
 
 #EXTINF:-1 tvg-name="RCN NOVELAS" tvg-logo=https://i.imgur.com/UETzZhZ.jpeg" group-title="TV", Tele NOVELAS
-http://138.59.227.20:8000/play/a07y/index.m3u8
+http://190.61.114.186:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-name="RCN NOVELAS" tvg-logo="https://i.imgur.com/UETzZhZ.jpeg" group-title="TV", TL novelas 
 http://38.210.105.10:8000/play/a0fh/index.m3u8
