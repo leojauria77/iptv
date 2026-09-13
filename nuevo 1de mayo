@@ -155,6 +155,9 @@ http://190.61.114.186:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2" tvg-logo="https://i.imgur.com/sSn9wmg.png" group-title="TV",History 2
 http://138.59.227.20:8000/play/a06n/index.m3u8
 
+#EXTINF:-1 tvg-id="History2.ar" tvg-name="History 2" tvg-logo="https://i.imgur.com/sSn9wmg.png" group-title="TV",H2
+http://45.238.54.249:8000/play/a03b/index.m3u8
+
 #EXTINF:-1,History 2 #45
 http://45.188.229.33:8000/play/a0xn/index.m3u8
 
@@ -167,7 +170,7 @@ http://45.188.229.33:8000/play/a1kc/index.m3u8
 #EXTINF:-1,History Channel #4
 http://45.188.229.33:8000/play/a104/index.m3u8
 
-#EXTINF:-1,The History Channel #5
+#EXTINF:-1,History Channel #5
 http://45.188.229.33:8000/play/a1b6/index.m3u8
 
 #EXTINF:-1,La casa de mickey mouse
