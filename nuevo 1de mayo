@@ -161,16 +161,16 @@ http://45.238.54.249:8000/play/a03b/index.m3u8
 #EXTINF:-1,History 2 #45
 http://45.188.229.33:8000/play/a0xn/index.m3u8
 
-#EXTINF:-1,History Channel #2
+#EXTINF:-1,History #2
 http://45.188.229.33:8000/play/a1aq/index.m3u8
 
-#EXTINF:-1,History Channel #3
-http://45.188.229.33:8000/play/a1kc/index.m3u8
+#EXTINF:-1,History HD
+http://45.238.54.249:8000/play/a02j/index.m3u8
 
-#EXTINF:-1,History Channel #4
+#EXTINF:-1,History #4
 http://45.188.229.33:8000/play/a104/index.m3u8
 
-#EXTINF:-1,History Channel #5
+#EXTINF:-1,History #5
 http://45.188.229.33:8000/play/a1b6/index.m3u8
 
 #EXTINF:-1,La casa de mickey mouse
