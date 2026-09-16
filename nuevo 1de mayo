@@ -46,7 +46,7 @@ http://starlatino.tv:8880/live/Gx63042656/zVJtwYNVw2xF/526461.ts
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTVSports.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 0
-http://190.117.20.37:8000/play/a08d/index.m3u8
+https://khala.futlivehd.com/global/dsports/index.m3u8?ip=181.169.116.92&token=e0dfbbfa25e2599b4b19b35a1038fca41ea10e21-90-1789563948-1789509948
 
 #EXTINF:-1,DSports 2 45
 http://45.188.229.33:8000/play/a1ix/index.m3u8
