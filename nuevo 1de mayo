@@ -114,8 +114,8 @@ http://liketv.xyz:8080/live/Cristian2020/Cristian2020/316483.ts
 #EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgQbeo.jpeg" group-title="REALITY",GRAN HERMANO 
 http://liketv.xyz:8080/live/Cristian2020/Cristian2020/510068.ts
 
-#EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgQbeo.jpeg" group-title="REALITY",GRAN HERMANO 2 
-http://liontv.es:8080/live/RandallSolano05/4MVwhA9KT3/1628369.ts
+#EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgo.jpeg" group-title="REALITY",A24
+http://liketv.xyz:8080/live/Cristian2020/Cristian2020/51.ts
 
 #EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/pUgQbeo.jpeg" group-title="REALITY",GRAN HERMANO 3
 http://liontv.es:8080/live/RandallSolano05/4MVwhA9KT3/1628368.ts
