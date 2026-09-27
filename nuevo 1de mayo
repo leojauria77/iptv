@@ -234,7 +234,7 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 http://carlosiptv.com:8089/live/henry21021/henryhenry/505.ts
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT 1" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT slayer
-https://lala4.futlivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=181.89.195.202&token=7f0bee80fcab7357bbbb6f9fbf3593642aefda6d-4e-1790574355-1790520355
+https://khala.futlivehd.com/global/tycsports/index.m3u8?ip=181.89.195.202&token=7f0bee80fcab7357bbbb6f9fbf3593642aefda6d-4e-1790574355-1790520355
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORT" tvg-logo=https://i.imgur.com/SFpghEl.png" group-title="FUTBOL",TyC SPORT 
