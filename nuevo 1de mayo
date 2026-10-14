@@ -54,8 +54,8 @@ http://kazan-tv.com:8091/live/JuanTexeira/Texeira061/12739.ts
 #EXTINF:-1,DSports 45
 http://45.188.229.33:8000/play/a1iw/index.m3u8
 
-#EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS +
-http://190.7.19.197:232/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS myultra
+http://myultratv.com:8080/live/83wece56we34be78/58wumu473muwu85/480.ts
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS ak47
 http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/630695.ts
