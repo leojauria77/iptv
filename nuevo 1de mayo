@@ -60,6 +60,9 @@ http://myultratv.com:8080/live/83wece56we34be78/58wumu473muwu85/480.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS ak47
 http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/630695.ts
 
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn 1 skynet
+http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776730.m3u8
+
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn Mio
 http://miotv.cc:8080/live/x3Zgw4YV3H/QrFT5nWVWX/369715.ts
 
