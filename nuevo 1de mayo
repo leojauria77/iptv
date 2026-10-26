@@ -57,8 +57,8 @@ http://45.188.229.33:8000/play/a1iw/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS myultra
 http://myultratv.com:8080/live/83wece56we34be78/58wumu473muwu85/480.ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS ak47
-http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/630695.ts
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 1 skynet
+http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776748.m3u8
 
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn 1 skynet
 http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776730.m3u8
