@@ -93,8 +93,8 @@ http://deluxe-tv.vip/live/232425/232425/1241664.ts
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Disney plus" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN livetv
 http://livetv-plus.com:8880/live/JSalazarCR/GTXRX/588132.ts
 
-#EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 1 lion
-http://liontv.es:8080/live/RandallSolano05/4MVwhA9KT3/118058.ts
+#EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium livetv
+http://livetv-plus.com:8880/live/JSalazarCR/GTXRX/588143.ts
 
 #EXTINF:-1 tvg-id="ESPN PREMIUN Ar1" tvg-name="ESPN PREMIUN Ar1" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL",ESPN Premium 2 liketv
 http://liketv.xyz:8080/live/Luis2025/Luis2025/7247.ts
