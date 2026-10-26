@@ -230,8 +230,8 @@ http://liontv.es:8080/live/Kelly2022/35yD3ADcsB/1384515.ts
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports PREMIUM 3" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports livetv
 http://livetv-plus.com:8880/live/JSalazarCR/GTXRX/211363.ts
 
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium 4" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports Premium 4 LEO⭐⭐⭐
-http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports Premium 4" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports 1 skynet
+http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776758.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT sport Ar1" tvg-logo="https://i.imgur.com/QQUjxlV.png" group-title="FUTBOL",TNT Sports deluxe 1
 http://deluxe-tv.vip/live/232425/232425/1241695.ts
