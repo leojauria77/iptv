@@ -60,6 +60,9 @@ http://myultratv.com:8080/live/83wece56we34be78/58wumu473muwu85/480.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="DSPORT" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 1 skynet
 http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776748.m3u8
 
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn Disney+ deluxe
+http://deluxe-tv.vip/live/232425/232425/1321376.ts
+
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn 1 skynet
 http://skynetmax.live:8080/live/Aalvarado/trk3SyFPKkNb/776730.m3u8
 
