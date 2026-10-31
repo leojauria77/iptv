@@ -15,3 +15,6 @@ http://planettvweb.com:8091/live/Fabroldan/Fabroldan4884/12755.ts
 
 #EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn premiun planet
 http://planettvweb.com:8091/live/Fabroldan/Fabroldan4884/14637.ts
+
+#EXTINF:-1 tvg-id="Espn premiun" tvg-name="ESPN" tvg-logo="https://i.imgur.com/AmGp8BB.png" group-title="FUTBOL", Espn premiun duke
+http://duketv.org:8080/live/Fernandez99/Fernandez99/591997.ts
