@@ -51,7 +51,7 @@ http://deluxe-tv.vip/live/232425/232425/1321341.ts
 #EXTINF:-1,DSports kazantv
 http://kazan-tv.com:8091/live/JuanTexeira/Texeira061/12739.ts
 
-#EXTINF:-1,DSports 45
+#EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS 45
 http://45.188.229.33:8000/play/a1iw/index.m3u8
 
 #EXTINF:-1 tvg-id="DIRECTVSports+.ar" tvg-name="DSPORT+" tvg-logo="https://i.imgur.com/9A4Ddx8.jpeg" group-title="TV",DSPORTS myultra
