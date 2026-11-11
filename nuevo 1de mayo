@@ -138,18 +138,16 @@ http://planettvweb.com:8091/live/Fabroldan/Fabroldan4884/11865.ts
 #EXTINF:-1 tvg-id="granhermano.ar" tvg-name="GRAN HERMANO" tvg-logo="https://i.imgur.com/Ky0dQHI.jpeg" group-title="REALITY",GRAN HERMANO URUGUAYO 
 http://liontv.es:8080/live/Kelly2022/35yD3ADcsB/1628370.ts
 
-#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve 1
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve Op 1
 http://138.59.227.20:8000/play/a08k/index.m3u8
 
-#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve 2" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve mtr3
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve 2" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve Op 2 mtr3
 http://mtr3.pro:8080/live/56975174865/231219iptv/546.ts
 
-#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/5H3GiDP.png" group-title="TV",El Nueve 3
-http://138.59.227.20:8000/play/a08k/index.m3u8
-
-#EXTINF:-1,el nueve #1
+#EXTINF:-1,el nueve Op 3
 http://45.188.229.33:8000/play/a1aw/index.m3u8
-#EXTINF:-1,el nueve #2
+
+#EXTINF:-1,el nueve  Op 4 45.188
 http://45.188.229.33:8000/play/a1a5/index.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece 2" tvg-logo="https://i.imgur.com/C957N5f.png" group-title="TV",El Trece 2
