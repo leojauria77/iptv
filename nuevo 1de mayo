@@ -215,22 +215,16 @@ http://dazzlexpro.com/live/jeff12/jeff12/671003.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 2" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe planettweb
 http://planettvweb.com:8091/live/Fabroldan/Fabroldan4884/11840.ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 3" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe ak47
-http://ak-47scan.dyndns.tv:25461/live/GerardoB32/AtTsLkCVETtM/3796.ts
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 4" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe Deluxetv
-http://deluxe-tv.vip/live/hsgggew4g/sdf42sf22f4/1241561.ts
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 5" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe mundo2
-http://mundo2.vip/live/IrisMoya1/Guayaquil25/81285.ts
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 3" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 23
+http://23.153.217.158:8080/live/46844653tv/cdm5836kwh/61544.ts
 
 #EXTINF:-1 tvg-id="Telefe" tvg-name="PLIM PLIM TV" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",PLIM PLIM TV
 http://38.210.105.10:8000/play/a0ga/index.m3u8
 
-#EXTINF:-1,Telefe respaldo 1
+#EXTINF:-1,Telefe 45
 http://45.188.229.33:8000/play/a1dm/index.m3u8
 
-#EXTINF:-1,Telefe respaldo 2
+#EXTINF:-1,Telefe 45.188
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="Telenord.ar@SD" tvg-logo="https://i.imgur.com/yqXORkt.png" group-title="Undefined",Telenord Corrientes
