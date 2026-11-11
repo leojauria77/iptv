@@ -27,8 +27,8 @@ http://138.59.227.20:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="América TV" tvg-logo="https://i.imgur.com/Jt7dOQm.png" group-title="TV",América TV mundo2
 http://mundo2.vip/live/IrisMoya1/Guayaquil25/81276.ts
 
-#EXTINF:-1, Chespirito mundo2
-http://mundo2.vip/live/IrisMoya1/Guayaquil25/316937.ts
+#EXTINF:-1, Chespirito mtr3
+http://mtr3.pro:8080/live/56975174865/231219iptv/34471.ts
 
 #EXTINF:-1 tvg-id="CanalDeLaMusica.ar" tvg-name="Canal de Musica" tvg-logo="https://i.imgur.com/lsYxA7u.png" group-title="TV",Canal de la musica
 http://dazzlexpro.com/live/721279/721279/671104.ts
