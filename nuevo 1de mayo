@@ -215,7 +215,7 @@ http://dazzlexpro.com/live/jeff12/jeff12/671003.ts
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 2" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe planettweb
 http://planettvweb.com:8091/live/Fabroldan/Fabroldan4884/11840.ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 3" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 23
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe 3" tvg-logo="https://i.imgur.com/CssrwME.png" group-title="TV",Telefe 23.153
 http://23.153.217.158:8080/live/46844653tv/cdm5836kwh/61544.ts
 
 #EXTINF:-1 tvg-id="Telefe" tvg-name="PLIM PLIM TV" tvg-logo=https://i.imgur.com/J5DAtt3.jpeg" group-title="TV",PLIM PLIM TV
